@@ -1,5 +1,5 @@
 pragma solidity >=0.5.15;
-pragma experimental ABIEncoderV2;
+// pragma experimental ABIEncoderV2;
 
 
 
@@ -31,12 +31,12 @@ contract ApplicationAdvert{
 	
  
 	
-    function ReturnStructAppName() public view returns(string memory){
-	   return app[AppNameSet].AppName; 
+    function ReturnStructAppName(string memory AppName) public view returns(string memory){
+	   return app[AppName].AppName; 
 	}
 	
-	function ReturnClicks() public view returns(uint){
-	   return app[AppNameSet].clicks; 
+	function ReturnClicks(string memory AppName) public view returns(uint){
+	   return app[AppName].clicks; 
 	}
 
 }
