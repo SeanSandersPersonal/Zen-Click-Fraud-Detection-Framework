@@ -1,0 +1,4 @@
+
+Class: com.google.android.material.chip.Chip
+com_landscape_camera_plus_1.1.1_12_28_2019: boolean onKeyDown(int,android.view.KeyEvent)
+com_landscape_camera_plus_1.1.1_12_28_2019: boolean onKeyDown(int,android.view.KeyEvent)

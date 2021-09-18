@@ -1,0 +1,6 @@
+Soot started on Thu Mar 04 14:20:24 EST 2021
+com.google.android.gms.ads.AdActivity Library Found
+Found oncreate
+staticinvoke <android.util.Log: int d(java.lang.String,java.lang.String)>("DebugInfo", "0252c4d3c9637240b133cb9da0289ad330ff6f353137c236bf952932ff7ea4d9:App Started:r0 := @this: com.fortune.glass.photo.frame.MainActivity")
+Soot finished on Thu Mar 04 14:20:48 EST 2021
+Soot has run for 0 min. 24 sec.

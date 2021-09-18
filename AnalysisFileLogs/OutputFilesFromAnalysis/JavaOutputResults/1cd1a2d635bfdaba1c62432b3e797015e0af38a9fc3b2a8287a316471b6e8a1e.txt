@@ -1,0 +1,6 @@
+Soot started on Thu Mar 04 20:01:20 EST 2021
+com.google.ads.AdView Library Found
+Found oncreate
+staticinvoke <android.util.Log: int d(java.lang.String,java.lang.String)>("DebugInfo", "1cd1a2d635bfdaba1c62432b3e797015e0af38a9fc3b2a8287a316471b6e8a1e:App Started:r0 := @this: com.tgifapps.facebookhotgirls.MainActivity")
+Soot finished on Thu Mar 04 20:01:40 EST 2021
+Soot has run for 0 min. 19 sec.

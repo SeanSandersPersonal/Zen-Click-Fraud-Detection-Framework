@@ -1,0 +1,6 @@
+Soot started on Thu Mar 04 15:46:49 EST 2021
+com.google.ads.internal.i Library Found
+Found oncreate
+staticinvoke <android.util.Log: int d(java.lang.String,java.lang.String)>("DebugInfo", "08c819724f3972ee9f8c43e4e52905e9b442f7e0a7002c4f1f3ef06662c73ec1:App Started:r0 := @this: com.tapsarena.megaquiz.MainActivity")
+Soot finished on Thu Mar 04 15:47:09 EST 2021
+Soot has run for 0 min. 20 sec.

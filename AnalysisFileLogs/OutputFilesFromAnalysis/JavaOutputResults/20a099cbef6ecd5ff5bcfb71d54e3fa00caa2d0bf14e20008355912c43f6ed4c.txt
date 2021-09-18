@@ -1,0 +1,5 @@
+Soot started on Thu Mar 04 20:44:32 EST 2021
+staticinvoke <android.util.Log: int d(java.lang.String,java.lang.String)>("DebugInfo", "20a099cbef6ecd5ff5bcfb71d54e3fa00caa2d0bf14e20008355912c43f6ed4c:ClickRegistered:$r7 = virtualinvoke $r10.<java.lang.StringBuilder: java.lang.StringBuilder append(java.lang.String)>(\"Impression tracking failed : \")")
+Declaring Class:java.lang.StringBuilder
+Soot finished on Thu Mar 04 20:45:00 EST 2021
+Soot has run for 0 min. 27 sec.

@@ -1,0 +1,5 @@
+Soot started on Thu Mar 04 16:39:32 EST 2021
+Found oncreate
+staticinvoke <android.util.Log: int d(java.lang.String,java.lang.String)>("DebugInfo", "0d1d4348f0bd02f3a995f3e16e77a9e54d7effe37d2bc926ceccd4c1bf526b96:App Started:r0 := @this: com.betasoft.guessword4pics.MainActivity")
+Soot finished on Thu Mar 04 16:39:43 EST 2021
+Soot has run for 0 min. 10 sec.

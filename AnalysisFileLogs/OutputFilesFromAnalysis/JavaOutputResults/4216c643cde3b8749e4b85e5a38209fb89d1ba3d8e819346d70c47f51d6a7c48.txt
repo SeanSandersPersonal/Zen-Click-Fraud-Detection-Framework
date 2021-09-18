@@ -1,0 +1,9 @@
+Soot started on Fri Mar 05 03:41:19 EST 2021
+com.google.ads.mediation.jsadapter.AdViewCheckTask$a Library Found
+com.amazon.device.ads.MraidDisplayController$3 Library Found
+Found oncreate
+staticinvoke <android.util.Log: int d(java.lang.String,java.lang.String)>("DebugInfo", "4216c643cde3b8749e4b85e5a38209fb89d1ba3d8e819346d70c47f51d6a7c48:App Started:r0 := @this: com.fk.ad.MainActivity2")
+staticinvoke <android.util.Log: int d(java.lang.String,java.lang.String)>("DebugInfo", "4216c643cde3b8749e4b85e5a38209fb89d1ba3d8e819346d70c47f51d6a7c48:ShowAd:virtualinvoke $r1.<com.amazon.device.ads.InterstitialAd: boolean showAd()>()")
+Declaring Class:com.amazon.device.ads.InterstitialAd
+Soot finished on Fri Mar 05 03:41:53 EST 2021
+Soot has run for 0 min. 33 sec.

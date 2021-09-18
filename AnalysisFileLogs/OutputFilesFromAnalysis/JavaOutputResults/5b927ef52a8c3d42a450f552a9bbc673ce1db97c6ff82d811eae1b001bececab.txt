@@ -1,0 +1,5 @@
+Soot started on Fri Mar 05 09:08:31 EST 2021
+Found oncreate
+staticinvoke <android.util.Log: int d(java.lang.String,java.lang.String)>("DebugInfo", "5b927ef52a8c3d42a450f552a9bbc673ce1db97c6ff82d811eae1b001bececab:App Started:r0 := @this: com.taka.music.MainActivity")
+Soot finished on Fri Mar 05 09:08:45 EST 2021
+Soot has run for 0 min. 13 sec.

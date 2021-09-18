@@ -1,0 +1,5 @@
+Soot started on Thu Mar 04 17:28:04 EST 2021
+Found oncreate
+staticinvoke <android.util.Log: int d(java.lang.String,java.lang.String)>("DebugInfo", "10c6e37fd8b0ef05b020dc9952097c4feb822250aff0dc347a1ec3e93d0eab2f:App Started:r0 := @this: com.adobe.air.AdobeAIRMainActivity")
+Soot finished on Thu Mar 04 17:28:14 EST 2021
+Soot has run for 0 min. 10 sec.

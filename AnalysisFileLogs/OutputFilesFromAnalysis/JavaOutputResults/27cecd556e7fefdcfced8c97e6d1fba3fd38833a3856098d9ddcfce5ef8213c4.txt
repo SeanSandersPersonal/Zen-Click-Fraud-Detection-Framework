@@ -1,0 +1,6 @@
+Soot started on Thu Mar 04 22:09:25 EST 2021
+Found oncreate
+staticinvoke <android.util.Log: int d(java.lang.String,java.lang.String)>("DebugInfo", "27cecd556e7fefdcfced8c97e6d1fba3fd38833a3856098d9ddcfce5ef8213c4:App Started:r0 := @this: com.fk.ad.MainActivity")
+com.google.android.gms.ads.AdView Library Found
+Soot finished on Thu Mar 04 22:09:42 EST 2021
+Soot has run for 0 min. 16 sec.

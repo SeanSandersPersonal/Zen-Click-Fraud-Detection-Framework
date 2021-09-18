@@ -1,0 +1,6 @@
+Soot started on Fri Mar 05 03:25:16 EST 2021
+com.google.android.gms.ads.AdActivity Library Found
+Found oncreate
+staticinvoke <android.util.Log: int d(java.lang.String,java.lang.String)>("DebugInfo", "40ed3c5a36b94668044258590f23ac8f9afe99db458c4828e7de33c8ba4384da:App Started:r0 := @this: com.rcplatform.instamark.ui.MainActivity")
+Soot finished on Fri Mar 05 03:26:02 EST 2021
+Soot has run for 0 min. 45 sec.

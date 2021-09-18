@@ -1,0 +1,5 @@
+Soot started on Thu Mar 04 19:59:29 EST 2021
+Found oncreate
+staticinvoke <android.util.Log: int d(java.lang.String,java.lang.String)>("DebugInfo", "1cb5b2f195aa39088ad20bd03de9820fd8817dd90fb9212d1614bb7247624438:App Started:r0 := @this: com.exde.holiday.emoji.MainActivity")
+Soot finished on Thu Mar 04 19:59:37 EST 2021
+Soot has run for 0 min. 7 sec.

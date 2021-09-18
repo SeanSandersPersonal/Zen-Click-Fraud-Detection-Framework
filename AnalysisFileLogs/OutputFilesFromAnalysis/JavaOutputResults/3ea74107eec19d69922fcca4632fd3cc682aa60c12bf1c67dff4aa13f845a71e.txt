@@ -1,0 +1,5 @@
+Soot started on Fri Mar 05 02:54:59 EST 2021
+Found oncreate
+staticinvoke <android.util.Log: int d(java.lang.String,java.lang.String)>("DebugInfo", "3ea74107eec19d69922fcca4632fd3cc682aa60c12bf1c67dff4aa13f845a71e:App Started:r0 := @this: com.unbrained.wifipassgen.app.MainActivity")
+Soot finished on Fri Mar 05 02:55:10 EST 2021
+Soot has run for 0 min. 11 sec.

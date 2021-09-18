@@ -1,0 +1,5 @@
+Soot started on Fri Mar 05 08:33:28 EST 2021
+Found oncreate
+staticinvoke <android.util.Log: int d(java.lang.String,java.lang.String)>("DebugInfo", "591b0392eed45ecb0437fa5f92a389622fc54020ff2c45ecdbd1548b184de10e:App Started:r0 := @this: com.doremigames.jump.ui.MainActivity")
+Soot finished on Fri Mar 05 08:33:41 EST 2021
+Soot has run for 0 min. 13 sec.

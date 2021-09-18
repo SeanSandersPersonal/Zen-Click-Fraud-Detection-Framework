@@ -1,0 +1,5 @@
+Soot started on Fri Mar 05 08:59:31 EST 2021
+Found oncreate
+staticinvoke <android.util.Log: int d(java.lang.String,java.lang.String)>("DebugInfo", "5af8cd96cd4a49954e386daf96a0cbfdd65eaac80267eaf8fb783af2eecbdc51:App Started:r0 := @this: com.ggeye.jiakao.api.Page_MainActivity")
+Soot finished on Fri Mar 05 08:59:49 EST 2021
+Soot has run for 0 min. 18 sec.

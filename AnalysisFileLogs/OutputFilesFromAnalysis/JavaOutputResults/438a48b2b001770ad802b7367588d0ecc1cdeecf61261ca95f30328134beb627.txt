@@ -1,0 +1,5 @@
+Soot started on Fri Mar 05 04:02:09 EST 2021
+Found oncreate
+staticinvoke <android.util.Log: int d(java.lang.String,java.lang.String)>("DebugInfo", "438a48b2b001770ad802b7367588d0ecc1cdeecf61261ca95f30328134beb627:App Started:r0 := @this: com.reallycoolapplications.rainyphoto.MainActivity")
+Soot finished on Fri Mar 05 04:02:18 EST 2021
+Soot has run for 0 min. 9 sec.

@@ -1,0 +1,7 @@
+Soot started on Thu Mar 04 15:11:29 EST 2021
+staticinvoke <android.util.Log: int d(java.lang.String,java.lang.String)>("DebugInfo", "0617bb65f4c9e214ec157d9176c9cb5ab4011e9235efd7485e4d7f7567f1d798:ClickRegistered:$r4 = virtualinvoke $r4.<java.lang.StringBuilder: java.lang.StringBuilder append(java.lang.String)>(\"StartAppWall.Banner3DSending Impression: [\")")
+Declaring Class:java.lang.StringBuilder
+Found oncreate
+staticinvoke <android.util.Log: int d(java.lang.String,java.lang.String)>("DebugInfo", "0617bb65f4c9e214ec157d9176c9cb5ab4011e9235efd7485e4d7f7567f1d798:App Started:r0 := @this: com.iwallpaper.momancam.MainActivity")
+Soot finished on Thu Mar 04 15:11:53 EST 2021
+Soot has run for 0 min. 23 sec.

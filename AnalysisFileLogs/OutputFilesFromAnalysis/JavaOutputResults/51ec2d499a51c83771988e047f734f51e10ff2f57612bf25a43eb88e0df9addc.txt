@@ -1,0 +1,5 @@
+Soot started on Fri Mar 05 07:08:43 EST 2021
+Found oncreate
+staticinvoke <android.util.Log: int d(java.lang.String,java.lang.String)>("DebugInfo", "51ec2d499a51c83771988e047f734f51e10ff2f57612bf25a43eb88e0df9addc:App Started:r0 := @this: com.wz.zq.MainActivity")
+Soot finished on Fri Mar 05 07:09:19 EST 2021
+Soot has run for 0 min. 35 sec.

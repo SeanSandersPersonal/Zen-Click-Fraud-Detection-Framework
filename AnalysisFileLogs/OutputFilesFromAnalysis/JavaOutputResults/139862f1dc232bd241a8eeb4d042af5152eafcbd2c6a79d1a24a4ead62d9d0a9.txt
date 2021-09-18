@@ -1,0 +1,5 @@
+Soot started on Thu Mar 04 18:05:13 EST 2021
+Found oncreate
+staticinvoke <android.util.Log: int d(java.lang.String,java.lang.String)>("DebugInfo", "139862f1dc232bd241a8eeb4d042af5152eafcbd2c6a79d1a24a4ead62d9d0a9:App Started:r0 := @this: com.mydialy.byscmenew.d.MainActivity")
+Soot finished on Thu Mar 04 18:05:20 EST 2021
+Soot has run for 0 min. 6 sec.

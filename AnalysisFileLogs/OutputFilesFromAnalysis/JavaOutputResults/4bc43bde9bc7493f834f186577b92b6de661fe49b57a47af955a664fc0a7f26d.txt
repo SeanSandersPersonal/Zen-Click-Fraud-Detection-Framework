@@ -1,0 +1,4 @@
+Soot started on Fri Mar 05 05:46:50 EST 2021
+com.google.ads.mediation.jsadapter.BannerWebViewClient Library Found
+Soot finished on Fri Mar 05 05:47:03 EST 2021
+Soot has run for 0 min. 13 sec.

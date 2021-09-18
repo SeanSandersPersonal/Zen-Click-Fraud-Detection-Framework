@@ -1,0 +1,6 @@
+Soot started on Thu Mar 04 19:46:11 EST 2021
+com.google.android.gms.ads.search.SearchAdView Library Found
+staticinvoke <android.util.Log: int d(java.lang.String,java.lang.String)>("DebugInfo", "1be0cf01acc68b11df55f595a3601bb29d95302d2532ec84fc3d8295bf6bbee9:AdClicked:virtualinvoke r0.<com.google.android.gms.internal.zzcs$zza: void performClick(java.lang.String)>($r3)")
+Declaring Class:com.google.android.gms.internal.zzcs$zza
+Soot finished on Thu Mar 04 19:46:41 EST 2021
+Soot has run for 0 min. 30 sec.

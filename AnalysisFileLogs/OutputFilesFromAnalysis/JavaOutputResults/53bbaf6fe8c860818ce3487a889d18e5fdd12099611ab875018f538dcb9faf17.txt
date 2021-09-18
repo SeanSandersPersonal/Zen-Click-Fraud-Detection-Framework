@@ -1,0 +1,7 @@
+Soot started on Fri Mar 05 07:30:56 EST 2021
+com.amazon.device.ads.AdLayout$2 Library Found
+com.google.android.gms.ads.AdView Library Found
+Found oncreate
+staticinvoke <android.util.Log: int d(java.lang.String,java.lang.String)>("DebugInfo", "53bbaf6fe8c860818ce3487a889d18e5fdd12099611ab875018f538dcb9faf17:App Started:r0 := @this: com.swarmconnect.SwarmMainActivity")
+Soot finished on Fri Mar 05 07:31:19 EST 2021
+Soot has run for 0 min. 23 sec.

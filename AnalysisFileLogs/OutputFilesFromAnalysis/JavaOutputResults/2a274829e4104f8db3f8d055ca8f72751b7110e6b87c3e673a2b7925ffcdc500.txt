@@ -1,0 +1,6 @@
+Soot started on Thu Mar 04 22:35:59 EST 2021
+com.google.android.gms.ads.purchase.InAppPurchaseActivity Library Found
+Found oncreate
+staticinvoke <android.util.Log: int d(java.lang.String,java.lang.String)>("DebugInfo", "2a274829e4104f8db3f8d055ca8f72751b7110e6b87c3e673a2b7925ffcdc500:App Started:r0 := @this: com.rush.mytube.activity.MyTubeMainActivity")
+Soot finished on Thu Mar 04 22:36:24 EST 2021
+Soot has run for 0 min. 25 sec.

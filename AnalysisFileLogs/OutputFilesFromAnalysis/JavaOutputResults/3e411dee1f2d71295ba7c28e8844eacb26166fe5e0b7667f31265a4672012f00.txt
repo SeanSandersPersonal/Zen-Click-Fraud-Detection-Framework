@@ -1,0 +1,6 @@
+Soot started on Fri Mar 05 02:50:01 EST 2021
+com.google.android.gms.ads.search.SearchAdView Library Found
+Found oncreate
+staticinvoke <android.util.Log: int d(java.lang.String,java.lang.String)>("DebugInfo", "3e411dee1f2d71295ba7c28e8844eacb26166fe5e0b7667f31265a4672012f00:App Started:r0 := @this: com.unity3d.player.PsmMainActivity")
+Soot finished on Fri Mar 05 02:50:26 EST 2021
+Soot has run for 0 min. 24 sec.

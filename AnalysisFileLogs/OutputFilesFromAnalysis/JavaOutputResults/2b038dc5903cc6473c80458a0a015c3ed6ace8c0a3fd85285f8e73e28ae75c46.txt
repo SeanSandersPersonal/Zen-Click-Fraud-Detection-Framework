@@ -1,0 +1,9 @@
+Soot started on Thu Mar 04 22:47:46 EST 2021
+com.google.android.gms.ads.internal.overlay.zzc$2 Library Found
+com.facebook.ads.internal.view.e Library Found
+staticinvoke <android.util.Log: int d(java.lang.String,java.lang.String)>("DebugInfo", "2b038dc5903cc6473c80458a0a015c3ed6ace8c0a3fd85285f8e73e28ae75c46:ClickRegistered:$r6 = virtualinvoke $r6.<java.lang.StringBuilder: java.lang.StringBuilder append(java.lang.String)>(\" impression is not supported\")")
+Declaring Class:java.lang.StringBuilder
+staticinvoke <android.util.Log: int d(java.lang.String,java.lang.String)>("DebugInfo", "2b038dc5903cc6473c80458a0a015c3ed6ace8c0a3fd85285f8e73e28ae75c46:AdClicked:virtualinvoke r0.<com.google.android.gms.internal.zzcv$zza: void performClick(java.lang.String)>($r3)")
+Declaring Class:com.google.android.gms.internal.zzcv$zza
+Soot finished on Thu Mar 04 22:48:21 EST 2021
+Soot has run for 0 min. 34 sec.

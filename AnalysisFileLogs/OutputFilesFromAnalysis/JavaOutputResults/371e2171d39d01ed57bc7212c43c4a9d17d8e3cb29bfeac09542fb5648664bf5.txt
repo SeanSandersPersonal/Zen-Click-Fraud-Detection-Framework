@@ -1,0 +1,5 @@
+Soot started on Fri Mar 05 01:16:59 EST 2021
+Found oncreate
+staticinvoke <android.util.Log: int d(java.lang.String,java.lang.String)>("DebugInfo", "371e2171d39d01ed57bc7212c43c4a9d17d8e3cb29bfeac09542fb5648664bf5:App Started:r0 := @this: com.alex.darkstory.MainActivity")
+Soot finished on Fri Mar 05 01:17:11 EST 2021
+Soot has run for 0 min. 11 sec.

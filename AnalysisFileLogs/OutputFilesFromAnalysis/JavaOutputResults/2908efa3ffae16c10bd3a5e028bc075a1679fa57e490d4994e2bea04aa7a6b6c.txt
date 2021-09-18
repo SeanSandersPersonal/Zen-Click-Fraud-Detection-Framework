@@ -1,0 +1,5 @@
+Soot started on Thu Mar 04 22:19:57 EST 2021
+Found oncreate
+staticinvoke <android.util.Log: int d(java.lang.String,java.lang.String)>("DebugInfo", "2908efa3ffae16c10bd3a5e028bc075a1679fa57e490d4994e2bea04aa7a6b6c:App Started:r0 := @this: hyperden.heli_one.app.MainActivityBase")
+Soot finished on Thu Mar 04 22:20:04 EST 2021
+Soot has run for 0 min. 6 sec.

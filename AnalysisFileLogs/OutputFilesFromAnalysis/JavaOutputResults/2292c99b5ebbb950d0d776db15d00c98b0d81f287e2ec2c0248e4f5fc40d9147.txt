@@ -1,0 +1,5 @@
+Soot started on Thu Mar 04 21:07:52 EST 2021
+Found oncreate
+staticinvoke <android.util.Log: int d(java.lang.String,java.lang.String)>("DebugInfo", "2292c99b5ebbb950d0d776db15d00c98b0d81f287e2ec2c0248e4f5fc40d9147:App Started:r0 := @this: com.immanitas.crazybelts1.MainActivity")
+Soot finished on Thu Mar 04 21:08:14 EST 2021
+Soot has run for 0 min. 22 sec.

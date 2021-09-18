@@ -1,0 +1,5 @@
+Soot started on Fri Mar 05 07:00:40 EST 2021
+Found oncreate
+staticinvoke <android.util.Log: int d(java.lang.String,java.lang.String)>("DebugInfo", "516444b286c57f1e91f630a1ebbcbd87de0f76edf236ea580af618222d480ce0:App Started:r0 := @this: com.neqoo.beautyscanner.BeautyScannerMainActivity")
+Soot finished on Fri Mar 05 07:01:05 EST 2021
+Soot has run for 0 min. 24 sec.

@@ -1,0 +1,8 @@
+Soot started on Fri Mar 05 03:00:20 EST 2021
+com.google.unity.ads.Interstitial$2 Library Found
+staticinvoke <android.util.Log: int d(java.lang.String,java.lang.String)>("DebugInfo", "3f0671d34820bdf2674c29028e62eb6c01cdbc06d5643f59c1565e4b31d4e804:ClickRegistered:$r6 = virtualinvoke $r6.<java.lang.StringBuilder: java.lang.StringBuilder append(java.lang.String)>(\" impression is not supported\")")
+Declaring Class:java.lang.StringBuilder
+staticinvoke <android.util.Log: int d(java.lang.String,java.lang.String)>("DebugInfo", "3f0671d34820bdf2674c29028e62eb6c01cdbc06d5643f59c1565e4b31d4e804:AdClicked:virtualinvoke r0.<com.google.android.gms.internal.zzcv$zza: void performClick(java.lang.String)>($r3)")
+Declaring Class:com.google.android.gms.internal.zzcv$zza
+Soot finished on Fri Mar 05 03:00:55 EST 2021
+Soot has run for 0 min. 35 sec.

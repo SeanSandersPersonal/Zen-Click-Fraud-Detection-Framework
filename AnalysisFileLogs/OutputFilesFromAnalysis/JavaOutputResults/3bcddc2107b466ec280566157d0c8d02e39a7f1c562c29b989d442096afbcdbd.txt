@@ -1,0 +1,6 @@
+Soot started on Fri Mar 05 02:16:13 EST 2021
+com.google.ads.internal.i Library Found
+Found oncreate
+staticinvoke <android.util.Log: int d(java.lang.String,java.lang.String)>("DebugInfo", "3bcddc2107b466ec280566157d0c8d02e39a7f1c562c29b989d442096afbcdbd:App Started:r0 := @this: com.dashdevapps.littlehorsecoloringpony.MainActivity")
+Soot finished on Fri Mar 05 02:16:27 EST 2021
+Soot has run for 0 min. 13 sec.

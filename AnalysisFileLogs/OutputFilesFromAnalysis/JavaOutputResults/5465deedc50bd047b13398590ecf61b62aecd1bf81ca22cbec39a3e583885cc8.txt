@@ -1,0 +1,4 @@
+Soot started on Fri Mar 05 07:38:38 EST 2021
+com.google.ads.mediation.jsadapter.AdViewCheckTask$a Library Found
+Soot finished on Fri Mar 05 07:38:51 EST 2021
+Soot has run for 0 min. 12 sec.

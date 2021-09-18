@@ -1,0 +1,6 @@
+Soot started on Fri Mar 05 09:16:28 EST 2021
+com.google.android.gms.ads.AdActivity Library Found
+Found oncreate
+staticinvoke <android.util.Log: int d(java.lang.String,java.lang.String)>("DebugInfo", "5c4f6c55bcab81a978d8de7e6aa4807cfa9c1d944b4058006c166c95f766277b:App Started:r0 := @this: app.amaz.materialhdwallpapers.MainActivity")
+Soot finished on Fri Mar 05 09:16:54 EST 2021
+Soot has run for 0 min. 26 sec.

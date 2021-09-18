@@ -1,0 +1,3 @@
+
+Class: com.mopub.mobileads.AdViewController$2
+19e272c131ca64a44cd44441bd01cef898947ef59c5e25ec77035fd2ff92db8d: void run()

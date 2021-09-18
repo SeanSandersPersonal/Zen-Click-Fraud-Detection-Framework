@@ -1,0 +1,6 @@
+Soot started on Mon May 17 14:01:35 EDT 2021
+com.google.android.gms.internal.ads.ahb Library Found
+Found oncreate
+staticinvoke <android.util.Log: int d(java.lang.String,java.lang.String)>("DebugInfo", "com.app.reyflow.phote_2936_apkplz.net:App Started:r0 := @this: com.facebook.CustomTabMainActivity")
+Soot finished on Mon May 17 14:02:41 EDT 2021
+Soot has run for 1 min. 5 sec.

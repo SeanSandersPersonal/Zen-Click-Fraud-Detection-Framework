@@ -1,0 +1,4 @@
+Soot started on Thu Mar 04 14:32:12 EST 2021
+com.google.ads.conversiontracking.InstallReceiver Library Found
+Soot finished on Thu Mar 04 14:32:43 EST 2021
+Soot has run for 0 min. 31 sec.

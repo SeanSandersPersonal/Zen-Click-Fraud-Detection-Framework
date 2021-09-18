@@ -1,0 +1,5 @@
+Soot started on Fri Mar 05 04:45:10 EST 2021
+Found oncreate
+staticinvoke <android.util.Log: int d(java.lang.String,java.lang.String)>("DebugInfo", "47628d998ff6546772ed4b03034a477cbb4be6a27bf1f2c0353eee494c41d0fd:App Started:r0 := @this: com.ljmobile.xmr.root.uninstall.ui.activity.MainActivity")
+Soot finished on Fri Mar 05 04:45:20 EST 2021
+Soot has run for 0 min. 10 sec.

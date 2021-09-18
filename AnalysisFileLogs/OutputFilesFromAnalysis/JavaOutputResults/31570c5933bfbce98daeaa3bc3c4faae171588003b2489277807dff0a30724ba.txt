@@ -1,0 +1,4 @@
+Soot started on Thu Mar 04 23:59:59 EST 2021
+com.google.ads.GoogleAdView$WebViewRetractRunnable Library Found
+Soot finished on Fri Mar 05 00:00:04 EST 2021
+Soot has run for 0 min. 5 sec.

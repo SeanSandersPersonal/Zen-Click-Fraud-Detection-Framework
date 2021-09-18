@@ -1,0 +1,7 @@
+Soot started on Fri Mar 05 05:27:56 EST 2021
+com.amazon.device.ads.MraidView Library Found
+com.google.android.gms.ads.AdActivity Library Found
+Found oncreate
+staticinvoke <android.util.Log: int d(java.lang.String,java.lang.String)>("DebugInfo", "4a8b062b38bfa4a1c25adbe29a46b013e91400e94a1673fef1146f61492c0ed9:App Started:r0 := @this: com.smartreader.deutschenachrichten.activity.MainActivity")
+Soot finished on Fri Mar 05 05:28:29 EST 2021
+Soot has run for 0 min. 32 sec.

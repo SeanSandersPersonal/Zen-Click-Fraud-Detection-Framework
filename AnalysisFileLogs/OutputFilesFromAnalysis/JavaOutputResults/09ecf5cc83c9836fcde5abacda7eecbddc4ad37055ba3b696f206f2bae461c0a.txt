@@ -1,0 +1,6 @@
+Soot started on Thu Mar 04 16:02:13 EST 2021
+com.google.ads.internal.i Library Found
+Found oncreate
+staticinvoke <android.util.Log: int d(java.lang.String,java.lang.String)>("DebugInfo", "09ecf5cc83c9836fcde5abacda7eecbddc4ad37055ba3b696f206f2bae461c0a:App Started:r0 := @this: cz.rychtar.android.entangledgame.MainActivity")
+Soot finished on Thu Mar 04 16:02:28 EST 2021
+Soot has run for 0 min. 15 sec.

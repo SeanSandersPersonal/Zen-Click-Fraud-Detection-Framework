@@ -1,0 +1,6 @@
+Soot started on Fri Mar 05 03:02:09 EST 2021
+com.google.ads.h Library Found
+Found oncreate
+staticinvoke <android.util.Log: int d(java.lang.String,java.lang.String)>("DebugInfo", "3f2a3fb24b86a8ab9419fbf72f12130538b334668ee898c98a158599e0294c8d:App Started:r0 := @this: com.movend.payment.MoVendMainActivity")
+Soot finished on Fri Mar 05 03:02:32 EST 2021
+Soot has run for 0 min. 22 sec.

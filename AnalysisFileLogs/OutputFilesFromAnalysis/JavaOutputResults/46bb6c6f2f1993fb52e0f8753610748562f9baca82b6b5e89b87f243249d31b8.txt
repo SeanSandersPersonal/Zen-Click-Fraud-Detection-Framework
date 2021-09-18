@@ -1,0 +1,12 @@
+Soot started on Fri Mar 05 04:36:22 EST 2021
+Found oncreate
+staticinvoke <android.util.Log: int d(java.lang.String,java.lang.String)>("DebugInfo", "46bb6c6f2f1993fb52e0f8753610748562f9baca82b6b5e89b87f243249d31b8:App Started:r0 := @this: com.mpisoft.doors2.beta.MainActivity")
+staticinvoke <android.util.Log: int d(java.lang.String,java.lang.String)>("DebugInfo", "46bb6c6f2f1993fb52e0f8753610748562f9baca82b6b5e89b87f243249d31b8:ClickRegistered:$r6 = virtualinvoke $r6.<java.lang.StringBuilder: java.lang.StringBuilder append(java.lang.String)>(\"-->Prepare failed to get an impression to show for type \")")
+Declaring Class:java.lang.StringBuilder
+staticinvoke <android.util.Log: int d(java.lang.String,java.lang.String)>("DebugInfo", "46bb6c6f2f1993fb52e0f8753610748562f9baca82b6b5e89b87f243249d31b8:ClickRegistered:$r6 = virtualinvoke $r6.<java.lang.StringBuilder: java.lang.StringBuilder append(java.lang.String)>(\"-->Prepare with impression_id list \")")
+Declaring Class:java.lang.StringBuilder
+com.google.android.gms.ads.doubleclick.PublisherAdView Library Found
+staticinvoke <android.util.Log: int d(java.lang.String,java.lang.String)>("DebugInfo", "46bb6c6f2f1993fb52e0f8753610748562f9baca82b6b5e89b87f243249d31b8:ClickRegistered:$r7 = virtualinvoke $r7.<java.lang.StringBuilder: java.lang.StringBuilder append(java.lang.String)>(\"[Prepare] instantiate desired view and manage prelude for impression id \")")
+Declaring Class:java.lang.StringBuilder
+Soot finished on Fri Mar 05 04:36:57 EST 2021
+Soot has run for 0 min. 35 sec.

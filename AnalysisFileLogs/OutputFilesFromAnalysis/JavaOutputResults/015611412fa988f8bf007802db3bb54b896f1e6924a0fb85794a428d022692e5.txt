@@ -1,0 +1,4 @@
+Soot started on Thu Mar 04 14:08:54 EST 2021
+com.google.ads.internal.AdVideoView$a Library Found
+Soot finished on Thu Mar 04 14:09:31 EST 2021
+Soot has run for 0 min. 36 sec.

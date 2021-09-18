@@ -1,0 +1,6 @@
+Soot started on Thu Mar 04 18:08:03 EST 2021
+com.google.android.gms.ads.AdActivity Library Found
+staticinvoke <android.util.Log: int d(java.lang.String,java.lang.String)>("DebugInfo", "13ba1e72b63a5e9d79366c90cef17a69b83220623dd6742979e21b23bcc61d3d:ClickRegistered:$r4 = virtualinvoke $r4.<java.lang.StringBuilder: java.lang.StringBuilder append(java.lang.String)>(\" impression url is \")")
+Declaring Class:java.lang.StringBuilder
+Soot finished on Thu Mar 04 18:08:34 EST 2021
+Soot has run for 0 min. 30 sec.

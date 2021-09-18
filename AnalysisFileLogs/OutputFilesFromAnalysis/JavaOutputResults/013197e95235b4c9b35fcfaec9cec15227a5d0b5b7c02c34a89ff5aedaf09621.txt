@@ -1,0 +1,17 @@
+Soot started on Thu Mar 04 14:06:39 EST 2021
+staticinvoke <android.util.Log: int d(java.lang.String,java.lang.String)>("DebugInfo", "013197e95235b4c9b35fcfaec9cec15227a5d0b5b7c02c34a89ff5aedaf09621:ClickRegistered:$r2 = virtualinvoke $r14.<java.lang.StringBuilder: java.lang.StringBuilder append(java.lang.String)>(\"sendImpressionCountForAd ad=\")")
+Declaring Class:java.lang.StringBuilder
+staticinvoke <android.util.Log: int d(java.lang.String,java.lang.String)>("DebugInfo", "013197e95235b4c9b35fcfaec9cec15227a5d0b5b7c02c34a89ff5aedaf09621:ClickRegistered:$r2 = virtualinvoke $r14.<java.lang.StringBuilder: java.lang.StringBuilder append(java.lang.String)>(\"sendImpressionCountForAd url=\")")
+Declaring Class:java.lang.StringBuilder
+staticinvoke <android.util.Log: int d(java.lang.String,java.lang.String)>("DebugInfo", "013197e95235b4c9b35fcfaec9cec15227a5d0b5b7c02c34a89ff5aedaf09621:ClickRegistered:$r2 = virtualinvoke $r14.<java.lang.StringBuilder: java.lang.StringBuilder append(java.lang.String)>(\"sendImpressionCountForAd status=\")")
+Declaring Class:java.lang.StringBuilder
+staticinvoke <android.util.Log: int d(java.lang.String,java.lang.String)>("DebugInfo", "013197e95235b4c9b35fcfaec9cec15227a5d0b5b7c02c34a89ff5aedaf09621:ClickRegistered:$r2 = virtualinvoke $r14.<java.lang.StringBuilder: java.lang.StringBuilder append(java.lang.String)>(\"sendImpressionCountForAd exception=\")")
+Declaring Class:java.lang.StringBuilder
+staticinvoke <android.util.Log: int d(java.lang.String,java.lang.String)>("DebugInfo", "013197e95235b4c9b35fcfaec9cec15227a5d0b5b7c02c34a89ff5aedaf09621:ClickRegistered:$r2 = virtualinvoke $r14.<java.lang.StringBuilder: java.lang.StringBuilder append(java.lang.String)>(\"sendImpressionCountForAd exception=\")")
+Declaring Class:java.lang.StringBuilder
+staticinvoke <android.util.Log: int d(java.lang.String,java.lang.String)>("DebugInfo", "013197e95235b4c9b35fcfaec9cec15227a5d0b5b7c02c34a89ff5aedaf09621:ClickRegistered:$r2 = virtualinvoke $r14.<java.lang.StringBuilder: java.lang.StringBuilder append(java.lang.String)>(\"sendImpressionCountForAd OutOfMemoryError=\")")
+Declaring Class:java.lang.StringBuilder
+Found oncreate
+staticinvoke <android.util.Log: int d(java.lang.String,java.lang.String)>("DebugInfo", "013197e95235b4c9b35fcfaec9cec15227a5d0b5b7c02c34a89ff5aedaf09621:App Started:r0 := @this: com.crossfield.castledashjkuhku.MainActivity")
+Soot finished on Thu Mar 04 14:06:47 EST 2021
+Soot has run for 0 min. 8 sec.

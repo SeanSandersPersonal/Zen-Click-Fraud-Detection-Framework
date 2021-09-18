@@ -1,0 +1,5 @@
+Soot started on Fri Mar 05 01:23:24 EST 2021
+Found oncreate
+staticinvoke <android.util.Log: int d(java.lang.String,java.lang.String)>("DebugInfo", "3789e308344af6a23d28a0ab73fe77230b7968961a1a155cb2a4f0b279cf8ec6:App Started:r0 := @this: com.rayboot.pinyincrazy.MainActivity")
+Soot finished on Fri Mar 05 01:23:37 EST 2021
+Soot has run for 0 min. 12 sec.

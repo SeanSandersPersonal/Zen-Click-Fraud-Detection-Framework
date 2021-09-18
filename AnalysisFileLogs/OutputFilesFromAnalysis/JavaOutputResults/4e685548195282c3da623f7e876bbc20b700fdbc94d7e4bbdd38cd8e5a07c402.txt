@@ -1,0 +1,5 @@
+Soot started on Fri Mar 05 06:23:17 EST 2021
+com.amazon.device.ads.ThreadUtils$1 Library Found
+com.google.android.gms.ads.search.SearchAdView Library Found
+Soot finished on Fri Mar 05 06:24:02 EST 2021
+Soot has run for 0 min. 44 sec.

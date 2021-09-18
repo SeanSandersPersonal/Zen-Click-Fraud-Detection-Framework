@@ -1,0 +1,7 @@
+Soot started on Thu Mar 04 13:53:00 EST 2021
+staticinvoke <android.util.Log: int d(java.lang.String,java.lang.String)>("DebugInfo", "00124d4060107fa6a744090194df88be60cb38ca6fb516b11dd76bdb18770ddf:ClickRegistered:$r4 = virtualinvoke $r4.<java.lang.StringBuilder: java.lang.StringBuilder append(java.lang.String)>(\"StartAppWall.Banner3DSending Impression: [\")")
+Declaring Class:java.lang.StringBuilder
+Found oncreate
+staticinvoke <android.util.Log: int d(java.lang.String,java.lang.String)>("DebugInfo", "00124d4060107fa6a744090194df88be60cb38ca6fb516b11dd76bdb18770ddf:App Started:r0 := @this: com.instalike.instaliker.MainActivity")
+Soot finished on Thu Mar 04 13:53:18 EST 2021
+Soot has run for 0 min. 18 sec.

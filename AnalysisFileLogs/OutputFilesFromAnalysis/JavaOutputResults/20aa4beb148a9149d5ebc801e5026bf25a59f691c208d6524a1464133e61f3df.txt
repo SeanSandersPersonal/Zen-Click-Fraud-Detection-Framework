@@ -1,0 +1,6 @@
+Soot started on Thu Mar 04 20:46:14 EST 2021
+com.google.android.gms.ads.internal.request.LargeParcelTeleporter$1 Library Found
+Found oncreate
+staticinvoke <android.util.Log: int d(java.lang.String,java.lang.String)>("DebugInfo", "20aa4beb148a9149d5ebc801e5026bf25a59f691c208d6524a1464133e61f3df:App Started:r0 := @this: com.fsn.cauly.blackdragoncore.MainActivity")
+Soot finished on Thu Mar 04 20:47:39 EST 2021
+Soot has run for 1 min. 24 sec.

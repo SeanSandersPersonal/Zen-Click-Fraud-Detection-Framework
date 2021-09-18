@@ -1,0 +1,6 @@
+Soot started on Fri Mar 05 08:10:57 EST 2021
+com.google.android.gms.ads.AdActivity Library Found
+Found oncreate
+staticinvoke <android.util.Log: int d(java.lang.String,java.lang.String)>("DebugInfo", "5725a01ee026113e4214867bc88276b344d430607fe8f4fe9bfe21e609cba251:App Started:r0 := @this: com.fortunetechlab.photo.effect.picstudio.MainActivity")
+Soot finished on Fri Mar 05 08:11:21 EST 2021
+Soot has run for 0 min. 23 sec.

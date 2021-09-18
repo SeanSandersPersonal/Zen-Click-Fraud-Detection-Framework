@@ -1,0 +1,9 @@
+Soot started on Fri Mar 05 00:40:04 EST 2021
+com.google.android.gms.ads.internal.purchase.zzc Library Found
+com.amazon.device.ads.AdLayout$2 Library Found
+staticinvoke <android.util.Log: int d(java.lang.String,java.lang.String)>("DebugInfo", "3470a1145e6ca6e645c3485c4538bf5657b372e664b539384f7f1cc8d808fe7e:AdClicked:virtualinvoke r0.<com.google.android.gms.b.er: void performClick(java.lang.String)>($r3)")
+Declaring Class:com.google.android.gms.b.er
+Found oncreate
+staticinvoke <android.util.Log: int d(java.lang.String,java.lang.String)>("DebugInfo", "3470a1145e6ca6e645c3485c4538bf5657b372e664b539384f7f1cc8d808fe7e:App Started:r0 := @this: com.devexpert.weather.view.MainActivity")
+Soot finished on Fri Mar 05 00:40:33 EST 2021
+Soot has run for 0 min. 29 sec.

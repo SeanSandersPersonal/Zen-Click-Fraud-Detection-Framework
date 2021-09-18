@@ -1,0 +1,8 @@
+Soot started on Thu Mar 04 14:22:14 EST 2021
+com.google.android.gms.ads.internal.overlay.zzi Library Found
+Found oncreate
+staticinvoke <android.util.Log: int d(java.lang.String,java.lang.String)>("DebugInfo", "02720f22977388a8043e344717454d9e7781fb412b1f8249d5bbf39716566c44:App Started:r0 := @this: com.juappl.questionpowerindustry.MainActivity")
+staticinvoke <android.util.Log: int d(java.lang.String,java.lang.String)>("DebugInfo", "02720f22977388a8043e344717454d9e7781fb412b1f8249d5bbf39716566c44:AdClicked:virtualinvoke r0.<com.google.android.gms.internal.zzcs$zza: void performClick(java.lang.String)>($r3)")
+Declaring Class:com.google.android.gms.internal.zzcs$zza
+Soot finished on Thu Mar 04 14:22:43 EST 2021
+Soot has run for 0 min. 28 sec.

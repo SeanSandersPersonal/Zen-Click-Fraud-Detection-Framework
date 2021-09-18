@@ -1,0 +1,5 @@
+Soot started on Thu Mar 04 14:04:07 EST 2021
+Found oncreate
+staticinvoke <android.util.Log: int d(java.lang.String,java.lang.String)>("DebugInfo", "00e41edcaa0564408db38582ced7b1bcb0344a72a07f88cf485c864afadea7bf:App Started:r0 := @this: com.miaotong.musicalarmclock.putup.MainActivity")
+Soot finished on Thu Mar 04 14:04:16 EST 2021
+Soot has run for 0 min. 8 sec.

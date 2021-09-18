@@ -1,0 +1,5 @@
+Soot started on Thu Mar 04 17:25:47 EST 2021
+Found oncreate
+staticinvoke <android.util.Log: int d(java.lang.String,java.lang.String)>("DebugInfo", "10a3743e83492bfdb792dbdebe312ae44bc6c93efd4426e9c59f8bc3f5792f52:App Started:r0 := @this: com.wedevote.bible.main.MainActivity")
+Soot finished on Thu Mar 04 17:26:23 EST 2021
+Soot has run for 0 min. 35 sec.

@@ -1,0 +1,6 @@
+Soot started on Thu Mar 04 21:10:24 EST 2021
+com.luvugoogle.crackscreenprank2.mobi.vserv.android.ads.A Library Found
+Found oncreate
+staticinvoke <android.util.Log: int d(java.lang.String,java.lang.String)>("DebugInfo", "22cd0a4d69aa7ec7b96ec4dfde375fa880e0ccff5ea9379fb4ea5c9f295bf909:App Started:r0 := @this: com.luvugoogle.crackscreenprank2.MainActivity")
+Soot finished on Thu Mar 04 21:10:40 EST 2021
+Soot has run for 0 min. 16 sec.

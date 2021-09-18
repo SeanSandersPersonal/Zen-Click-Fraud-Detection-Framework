@@ -1,0 +1,5 @@
+Soot started on Fri Mar 05 03:35:10 EST 2021
+Found oncreate
+staticinvoke <android.util.Log: int d(java.lang.String,java.lang.String)>("DebugInfo", "41768bfb86b20a2cd7fdacb586752654a5a6fac41aefa6fc925fd725bf14b8f6:App Started:r0 := @this: mobi.thinkchange.android.fingerscannercn.MainActivity")
+Soot finished on Fri Mar 05 03:35:23 EST 2021
+Soot has run for 0 min. 12 sec.

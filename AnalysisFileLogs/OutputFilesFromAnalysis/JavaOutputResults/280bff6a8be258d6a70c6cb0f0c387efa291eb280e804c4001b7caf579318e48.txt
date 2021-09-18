@@ -1,0 +1,5 @@
+Soot started on Thu Mar 04 22:11:20 EST 2021
+Found oncreate
+staticinvoke <android.util.Log: int d(java.lang.String,java.lang.String)>("DebugInfo", "280bff6a8be258d6a70c6cb0f0c387efa291eb280e804c4001b7caf579318e48:App Started:r0 := @this: com.chipstack.selfieomatic.ui.MainActivity")
+Soot finished on Thu Mar 04 22:11:44 EST 2021
+Soot has run for 0 min. 24 sec.

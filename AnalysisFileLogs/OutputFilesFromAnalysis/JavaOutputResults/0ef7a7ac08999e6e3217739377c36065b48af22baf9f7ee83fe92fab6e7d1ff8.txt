@@ -1,0 +1,5 @@
+Soot started on Thu Mar 04 17:05:41 EST 2021
+Found oncreate
+staticinvoke <android.util.Log: int d(java.lang.String,java.lang.String)>("DebugInfo", "0ef7a7ac08999e6e3217739377c36065b48af22baf9f7ee83fe92fab6e7d1ff8:App Started:r0 := @this: colorbox.uninstall.mainActivity")
+Soot finished on Thu Mar 04 17:05:46 EST 2021
+Soot has run for 0 min. 5 sec.

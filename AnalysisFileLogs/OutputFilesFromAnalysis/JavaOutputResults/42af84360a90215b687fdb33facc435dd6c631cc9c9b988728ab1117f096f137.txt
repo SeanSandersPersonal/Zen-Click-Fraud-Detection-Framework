@@ -1,0 +1,5 @@
+Soot started on Fri Mar 05 03:49:20 EST 2021
+Found oncreate
+staticinvoke <android.util.Log: int d(java.lang.String,java.lang.String)>("DebugInfo", "42af84360a90215b687fdb33facc435dd6c631cc9c9b988728ab1117f096f137:App Started:r0 := @this: com.dozingcatsoftware.cameratimer.MainActivity")
+Soot finished on Fri Mar 05 03:49:33 EST 2021
+Soot has run for 0 min. 12 sec.

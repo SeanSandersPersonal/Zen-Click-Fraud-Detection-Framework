@@ -1,0 +1,6 @@
+Soot started on Thu Mar 04 20:52:53 EST 2021
+com.google.ads.internal.ActivationOverlay$1 Library Found
+Found oncreate
+staticinvoke <android.util.Log: int d(java.lang.String,java.lang.String)>("DebugInfo", "214af69ac124fa1984fc5fe8a221169c01ccab37497a2ac82eb104ef2dd33130:App Started:r0 := @this: com.mobimento.caponate.MainActivity")
+Soot finished on Thu Mar 04 20:53:12 EST 2021
+Soot has run for 0 min. 18 sec.

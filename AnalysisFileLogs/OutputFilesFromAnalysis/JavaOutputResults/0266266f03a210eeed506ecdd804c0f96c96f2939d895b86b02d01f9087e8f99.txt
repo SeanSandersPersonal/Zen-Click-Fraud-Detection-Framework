@@ -1,0 +1,6 @@
+Soot started on Thu Mar 04 14:21:14 EST 2021
+com.google.ads.internal.AdVideoView$a Library Found
+Found oncreate
+staticinvoke <android.util.Log: int d(java.lang.String,java.lang.String)>("DebugInfo", "0266266f03a210eeed506ecdd804c0f96c96f2939d895b86b02d01f9087e8f99:App Started:r0 := @this: es.televisiones.espana.MainActivity")
+Soot finished on Thu Mar 04 14:21:32 EST 2021
+Soot has run for 0 min. 17 sec.

@@ -1,0 +1,5 @@
+Soot started on Thu Mar 04 20:29:51 EST 2021
+Found oncreate
+staticinvoke <android.util.Log: int d(java.lang.String,java.lang.String)>("DebugInfo", "1f27749ea22d2e70b85b8822d3ea8c96574d60b52c0528d42c513238f04f0037:App Started:r0 := @this: com.xgwvly.waterriddle.MainActivity")
+Soot finished on Thu Mar 04 20:30:01 EST 2021
+Soot has run for 0 min. 10 sec.

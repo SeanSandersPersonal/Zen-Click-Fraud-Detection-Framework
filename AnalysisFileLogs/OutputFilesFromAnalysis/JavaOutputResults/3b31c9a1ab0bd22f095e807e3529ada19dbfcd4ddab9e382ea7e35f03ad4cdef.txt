@@ -1,0 +1,6 @@
+Soot started on Fri Mar 05 02:05:16 EST 2021
+com.google.android.gms.ads.AdActivity Library Found
+Found oncreate
+staticinvoke <android.util.Log: int d(java.lang.String,java.lang.String)>("DebugInfo", "3b31c9a1ab0bd22f095e807e3529ada19dbfcd4ddab9e382ea7e35f03ad4cdef:App Started:r0 := @this: timmcgraw.flowsounds.music.MainActivity")
+Soot finished on Fri Mar 05 02:05:32 EST 2021
+Soot has run for 0 min. 15 sec.

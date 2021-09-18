@@ -1,0 +1,5 @@
+Soot started on Fri Mar 05 00:20:28 EST 2021
+Found oncreate
+staticinvoke <android.util.Log: int d(java.lang.String,java.lang.String)>("DebugInfo", "32d789c06e9c3861ea8757da704d0d19d88c2546028f395b1f77320832c64b33:App Started:r0 := @this: oceanwaves.mindmap.MainActivity")
+Soot finished on Fri Mar 05 00:20:45 EST 2021
+Soot has run for 0 min. 16 sec.

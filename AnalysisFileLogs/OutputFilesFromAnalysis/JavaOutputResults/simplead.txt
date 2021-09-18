@@ -1,0 +1,18 @@
+Soot started on Mon May 17 10:10:12 EDT 2021
+com.amazon.device.ads.AdLayout Library Found
+staticinvoke <android.util.Log: int d(java.lang.String,java.lang.String)>("DebugInfo", "simplead:ShowAd:virtualinvoke $r2.<com.amazon.sample.simplead3.SimpleAdActivity: void showAd()>()")
+Declaring Class:com.amazon.sample.simplead3.SimpleAdActivity
+staticinvoke <android.util.Log: int d(java.lang.String,java.lang.String)>("DebugInfo", "simplead:LoadAd:virtualinvoke $r2.<com.amazon.sample.simplead3.SimpleAdActivity: void loadAd()>()")
+Declaring Class:com.amazon.sample.simplead3.SimpleAdActivity
+staticinvoke <android.util.Log: int d(java.lang.String,java.lang.String)>("DebugInfo", "simplead:AdClickedListener:virtualinvoke $r9.<com.amazon.device.ads.AdLayout: void setListener(com.amazon.device.ads.AdListener)>($r10)")
+Declaring Class:com.amazon.device.ads.AdLayout
+staticinvoke <android.util.Log: int d(java.lang.String,java.lang.String)>("DebugInfo", "simplead:AdClickedListener:virtualinvoke $r9.<com.amazon.device.ads.AdLayout: void setListener(com.amazon.device.ads.AdListener)>($r10)")
+Declaring Class:com.amazon.device.ads.AdLayout
+staticinvoke <android.util.Log: int d(java.lang.String,java.lang.String)>("DebugInfo", "simplead:LoadAd:virtualinvoke $r9.<com.amazon.device.ads.AdLayout: boolean loadAd()>()")
+Declaring Class:com.amazon.device.ads.AdLayout
+staticinvoke <android.util.Log: int d(java.lang.String,java.lang.String)>("DebugInfo", "simplead:LoadAd:virtualinvoke $r9.<com.amazon.device.ads.AdLayout: boolean loadAd()>()")
+Declaring Class:com.amazon.device.ads.AdLayout
+staticinvoke <android.util.Log: int d(java.lang.String,java.lang.String)>("DebugInfo", "simplead:AdClicked:virtualinvoke $r9.<com.amazon.device.ads.AdLayout: boolean performClick()>()")
+Declaring Class:com.amazon.device.ads.AdLayout
+Soot finished on Mon May 17 10:11:42 EDT 2021
+Soot has run for 1 min. 30 sec.

@@ -1,0 +1,6 @@
+Soot started on Fri Mar 05 08:23:39 EST 2021
+com.google.ads.e$2 Library Found
+Found oncreate
+staticinvoke <android.util.Log: int d(java.lang.String,java.lang.String)>("DebugInfo", "582394d2b1138c2dc8320ed39922e4a0b8b342b8e16a23e1ed91f6cd325dd908:App Started:r0 := @this: com.TrimenGames.VehiclesParking.MainActivity")
+Soot finished on Fri Mar 05 08:24:01 EST 2021
+Soot has run for 0 min. 21 sec.

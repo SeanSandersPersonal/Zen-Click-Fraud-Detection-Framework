@@ -1,0 +1,4 @@
+Soot started on Thu Mar 04 20:19:43 EST 2021
+com.google.ads.GoogleAdView$WebViewPlaceHolder Library Found
+Soot finished on Thu Mar 04 20:19:47 EST 2021
+Soot has run for 0 min. 4 sec.

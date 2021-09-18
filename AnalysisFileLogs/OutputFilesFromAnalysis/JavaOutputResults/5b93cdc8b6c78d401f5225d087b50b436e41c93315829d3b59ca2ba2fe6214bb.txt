@@ -1,0 +1,6 @@
+Soot started on Fri Mar 05 09:08:46 EST 2021
+com.google.android.gms.ads.AdView Library Found
+Found oncreate
+staticinvoke <android.util.Log: int d(java.lang.String,java.lang.String)>("DebugInfo", "5b93cdc8b6c78d401f5225d087b50b436e41c93315829d3b59ca2ba2fe6214bb:App Started:r0 := @this: com.YOZHStudio.BabyPuzzle.MainActivity")
+Soot finished on Fri Mar 05 09:09:10 EST 2021
+Soot has run for 0 min. 24 sec.

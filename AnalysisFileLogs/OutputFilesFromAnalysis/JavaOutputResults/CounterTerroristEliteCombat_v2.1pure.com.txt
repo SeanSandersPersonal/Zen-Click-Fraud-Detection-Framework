@@ -1,0 +1,15 @@
+Soot started on Tue May 18 09:50:01 EDT 2021
+com.google.android.gms.ads.internal.js.zzag Library Found
+com.facebook.ads.internal.view.d.b.a$a$3 Library Found
+staticinvoke <android.util.Log: int d(java.lang.String,java.lang.String)>("DebugInfo", "CounterTerroristEliteCombat_v2.1_apkpure.com:AdClicked:virtualinvoke r0.<com.google.android.gms.internal.zzpm: void performClick(android.os.Bundle)>($r7)")
+Declaring Class:com.google.android.gms.internal.zzpm
+Found oncreate
+staticinvoke <android.util.Log: int d(java.lang.String,java.lang.String)>("DebugInfo", "CounterTerroristEliteCombat_v2.1_apkpure.com:App Started:r0 := @this: com.ltkj.kj.MainActivity")
+staticinvoke <android.util.Log: int d(java.lang.String,java.lang.String)>("DebugInfo", "CounterTerroristEliteCombat_v2.1_apkpure.com:AdClicked:virtualinvoke r0.<com.google.android.gms.internal.zzpq: void performClick(android.os.Bundle)>($r7)")
+Declaring Class:com.google.android.gms.internal.zzpq
+staticinvoke <android.util.Log: int d(java.lang.String,java.lang.String)>("DebugInfo", "CounterTerroristEliteCombat_v2.1_apkpure.com:AdClicked:virtualinvoke r0.<com.google.android.gms.internal.zzpu: void performClick(java.lang.String)>($r3)")
+Declaring Class:com.google.android.gms.internal.zzpu
+staticinvoke <android.util.Log: int d(java.lang.String,java.lang.String)>("DebugInfo", "CounterTerroristEliteCombat_v2.1_apkpure.com:ClickRegistered:$r1 = virtualinvoke $r1.<java.lang.StringBuilder: java.lang.StringBuilder append(java.lang.String)>(\" as delayed impression is not supported\")")
+Declaring Class:java.lang.StringBuilder
+Soot finished on Tue May 18 09:50:50 EDT 2021
+Soot has run for 0 min. 49 sec.

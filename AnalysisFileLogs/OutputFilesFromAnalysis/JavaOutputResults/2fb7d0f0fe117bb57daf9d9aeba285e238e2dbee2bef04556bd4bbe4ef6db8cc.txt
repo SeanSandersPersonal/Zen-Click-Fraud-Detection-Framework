@@ -1,0 +1,5 @@
+Soot started on Thu Mar 04 23:43:44 EST 2021
+Found oncreate
+staticinvoke <android.util.Log: int d(java.lang.String,java.lang.String)>("DebugInfo", "2fb7d0f0fe117bb57daf9d9aeba285e238e2dbee2bef04556bd4bbe4ef6db8cc:App Started:r0 := @this: com.bxyxzx.blizzard.activity.MainActivity_")
+Soot finished on Thu Mar 04 23:44:00 EST 2021
+Soot has run for 0 min. 15 sec.

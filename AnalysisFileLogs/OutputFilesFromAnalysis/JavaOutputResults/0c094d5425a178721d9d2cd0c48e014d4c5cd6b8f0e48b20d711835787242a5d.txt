@@ -1,0 +1,5 @@
+Soot started on Thu Mar 04 16:25:15 EST 2021
+staticinvoke <android.util.Log: int d(java.lang.String,java.lang.String)>("DebugInfo", "0c094d5425a178721d9d2cd0c48e014d4c5cd6b8f0e48b20d711835787242a5d:ShowAd:virtualinvoke $r3.<com.roidgame.SaveBirds.googlead.AdCompoundManager: void showAd()>()")
+Declaring Class:com.roidgame.SaveBirds.googlead.AdCompoundManager
+Soot finished on Thu Mar 04 16:25:25 EST 2021
+Soot has run for 0 min. 9 sec.

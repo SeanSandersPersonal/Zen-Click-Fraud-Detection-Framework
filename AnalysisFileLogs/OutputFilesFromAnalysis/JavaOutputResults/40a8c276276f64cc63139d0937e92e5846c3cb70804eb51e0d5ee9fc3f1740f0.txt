@@ -1,0 +1,5 @@
+Soot started on Fri Mar 05 03:22:31 EST 2021
+Found oncreate
+staticinvoke <android.util.Log: int d(java.lang.String,java.lang.String)>("DebugInfo", "40a8c276276f64cc63139d0937e92e5846c3cb70804eb51e0d5ee9fc3f1740f0:App Started:r0 := @this: com.devuni.flashlight.MainActivity")
+Soot finished on Fri Mar 05 03:22:40 EST 2021
+Soot has run for 0 min. 9 sec.

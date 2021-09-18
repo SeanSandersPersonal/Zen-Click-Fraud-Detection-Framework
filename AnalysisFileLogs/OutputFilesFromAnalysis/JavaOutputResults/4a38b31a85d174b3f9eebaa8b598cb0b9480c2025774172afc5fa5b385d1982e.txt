@@ -1,0 +1,5 @@
+Soot started on Fri Mar 05 05:22:50 EST 2021
+Found oncreate
+staticinvoke <android.util.Log: int d(java.lang.String,java.lang.String)>("DebugInfo", "4a38b31a85d174b3f9eebaa8b598cb0b9480c2025774172afc5fa5b385d1982e:App Started:r0 := @this: com.teremok.influence.MainActivity")
+Soot finished on Fri Mar 05 05:23:05 EST 2021
+Soot has run for 0 min. 14 sec.

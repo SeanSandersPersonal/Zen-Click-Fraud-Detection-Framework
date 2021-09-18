@@ -1,0 +1,4 @@
+Soot started on Thu Mar 04 19:49:23 EST 2021
+com.google.ads.GoogleAdOverlay$AdContainer Library Found
+Soot finished on Thu Mar 04 19:49:28 EST 2021
+Soot has run for 0 min. 4 sec.

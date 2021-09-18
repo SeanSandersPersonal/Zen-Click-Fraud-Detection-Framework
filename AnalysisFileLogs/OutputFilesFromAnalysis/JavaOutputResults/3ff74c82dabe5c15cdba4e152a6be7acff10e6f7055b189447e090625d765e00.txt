@@ -1,0 +1,5 @@
+Soot started on Fri Mar 05 03:13:06 EST 2021
+Found oncreate
+staticinvoke <android.util.Log: int d(java.lang.String,java.lang.String)>("DebugInfo", "3ff74c82dabe5c15cdba4e152a6be7acff10e6f7055b189447e090625d765e00:App Started:r0 := @this: com.yopay.sdk.activities.PayMainActivity")
+Soot finished on Fri Mar 05 03:13:48 EST 2021
+Soot has run for 0 min. 41 sec.

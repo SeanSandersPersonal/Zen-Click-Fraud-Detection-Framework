@@ -1,0 +1,5 @@
+Soot started on Thu Mar 04 18:22:24 EST 2021
+Found oncreate
+staticinvoke <android.util.Log: int d(java.lang.String,java.lang.String)>("DebugInfo", "1547706b24e42fd4c6451c1704e0bd951a64a31f7e8a4faf028d35350b5b8e32:App Started:r0 := @this: com.lazyeye.filter.MainActivity")
+Soot finished on Thu Mar 04 18:22:31 EST 2021
+Soot has run for 0 min. 7 sec.

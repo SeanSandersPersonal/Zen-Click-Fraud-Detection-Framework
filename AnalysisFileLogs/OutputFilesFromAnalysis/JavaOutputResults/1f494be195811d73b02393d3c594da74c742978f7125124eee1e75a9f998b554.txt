@@ -1,0 +1,5 @@
+Soot started on Thu Mar 04 20:31:55 EST 2021
+Found oncreate
+staticinvoke <android.util.Log: int d(java.lang.String,java.lang.String)>("DebugInfo", "1f494be195811d73b02393d3c594da74c742978f7125124eee1e75a9f998b554:App Started:r0 := @this: chandoi.group.android.bookaudio.MainActivity")
+Soot finished on Thu Mar 04 20:32:07 EST 2021
+Soot has run for 0 min. 11 sec.

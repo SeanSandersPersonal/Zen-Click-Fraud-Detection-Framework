@@ -1,0 +1,5 @@
+Soot started on Fri Mar 05 01:31:11 EST 2021
+Found oncreate
+staticinvoke <android.util.Log: int d(java.lang.String,java.lang.String)>("DebugInfo", "38315aa07d320e4ee8a0b6373c9c911d3f0488a9af353c4ed703bf6112daaf58:App Started:r0 := @this: com.drawingapp.cartoonmaker.MainActivity")
+Soot finished on Fri Mar 05 01:31:31 EST 2021
+Soot has run for 0 min. 19 sec.

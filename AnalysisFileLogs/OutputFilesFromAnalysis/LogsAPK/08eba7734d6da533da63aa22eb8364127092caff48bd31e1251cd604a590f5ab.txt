@@ -1,0 +1,4 @@
+
+Class: com.ximopub.mobileads.AdView$2
+08eba7734d6da533da63aa22eb8364127092caff48bd31e1251cd604a590f5ab: void run()
+08eba7734d6da533da63aa22eb8364127092caff48bd31e1251cd604a590f5ab: void run()

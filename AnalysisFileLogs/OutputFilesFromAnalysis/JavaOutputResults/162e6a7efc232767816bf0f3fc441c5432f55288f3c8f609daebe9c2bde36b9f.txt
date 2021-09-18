@@ -1,0 +1,5 @@
+Soot started on Thu Mar 04 18:34:01 EST 2021
+Found oncreate
+staticinvoke <android.util.Log: int d(java.lang.String,java.lang.String)>("DebugInfo", "162e6a7efc232767816bf0f3fc441c5432f55288f3c8f609daebe9c2bde36b9f:App Started:r0 := @this: com.lisa.hairstylepro.activity.MainActivity2")
+Soot finished on Thu Mar 04 18:34:18 EST 2021
+Soot has run for 0 min. 16 sec.

@@ -1,0 +1,7 @@
+Soot started on Fri Mar 05 00:05:44 EST 2021
+com.google.android.gms.ads.purchase.InAppPurchaseActivity Library Found
+com.facebook.ads.NativeAdScrollView$b Library Found
+Found oncreate
+staticinvoke <android.util.Log: int d(java.lang.String,java.lang.String)>("DebugInfo", "31ea4312c797db41ad3447bb2da90e95ba5f5dd0788ac0d8ffe313818574479f:App Started:r0 := @this: com.mobistar.goldminer.MainActivity")
+Soot finished on Fri Mar 05 00:06:20 EST 2021
+Soot has run for 0 min. 35 sec.

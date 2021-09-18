@@ -1,0 +1,6 @@
+Soot started on Thu Mar 04 17:49:24 EST 2021
+com.google.android.gms.ads.AdActivity Library Found
+Found oncreate
+staticinvoke <android.util.Log: int d(java.lang.String,java.lang.String)>("DebugInfo", "1261e3c3651c8f011a66e5599aed61db011dfeb4ccf339bf53ddb8e849fdf8f9:App Started:r0 := @this: com.fortune.insta.mirror.reflection.photoeffect.MainActivity")
+Soot finished on Thu Mar 04 17:49:47 EST 2021
+Soot has run for 0 min. 23 sec.

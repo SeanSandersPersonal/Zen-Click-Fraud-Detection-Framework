@@ -1,0 +1,10 @@
+Soot started on Fri Mar 05 05:42:20 EST 2021
+com.facebook.ads.internal.adapters.c Library Found
+Found oncreate
+staticinvoke <android.util.Log: int d(java.lang.String,java.lang.String)>("DebugInfo", "4b6b481f8851a704e0c9ebadc8d54e991358b51832fa0906e47ed263a29f3f46:App Started:r0 := @this: com.albumpro.photogallery.lock.slideshow.Image_Slide_MainActivity")
+staticinvoke <android.util.Log: int d(java.lang.String,java.lang.String)>("DebugInfo", "4b6b481f8851a704e0c9ebadc8d54e991358b51832fa0906e47ed263a29f3f46:LoadAd:virtualinvoke $r6.<com.facebook.ads.InterstitialAd: void loadAd()>()")
+Declaring Class:com.facebook.ads.InterstitialAd
+staticinvoke <android.util.Log: int d(java.lang.String,java.lang.String)>("DebugInfo", "4b6b481f8851a704e0c9ebadc8d54e991358b51832fa0906e47ed263a29f3f46:LoadAd:virtualinvoke $r2.<com.facebook.ads.InterstitialAd: void loadAd()>()")
+Declaring Class:com.facebook.ads.InterstitialAd
+Soot finished on Fri Mar 05 05:42:39 EST 2021
+Soot has run for 0 min. 18 sec.

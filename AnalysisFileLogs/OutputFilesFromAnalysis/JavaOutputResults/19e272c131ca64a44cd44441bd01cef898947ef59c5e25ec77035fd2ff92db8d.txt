@@ -1,0 +1,6 @@
+Soot started on Thu Mar 04 19:16:39 EST 2021
+com.amazon.device.ads.MraidBrowser$1 Library Found
+staticinvoke <android.util.Log: int d(java.lang.String,java.lang.String)>("DebugInfo", "19e272c131ca64a44cd44441bd01cef898947ef59c5e25ec77035fd2ff92db8d:ClickRegistered:$r7 = virtualinvoke $r10.<java.lang.StringBuilder: java.lang.StringBuilder append(java.lang.String)>(\"Impression tracking failed : \")")
+Declaring Class:java.lang.StringBuilder
+Soot finished on Thu Mar 04 19:17:11 EST 2021
+Soot has run for 0 min. 31 sec.

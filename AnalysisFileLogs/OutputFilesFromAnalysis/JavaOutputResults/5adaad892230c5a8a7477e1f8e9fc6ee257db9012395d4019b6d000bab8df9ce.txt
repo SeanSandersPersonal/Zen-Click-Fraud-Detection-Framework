@@ -1,0 +1,9 @@
+Soot started on Fri Mar 05 08:56:10 EST 2021
+Found oncreate
+staticinvoke <android.util.Log: int d(java.lang.String,java.lang.String)>("DebugInfo", "5adaad892230c5a8a7477e1f8e9fc6ee257db9012395d4019b6d000bab8df9ce:App Started:r0 := @this: com.fsn.cauly.blackdragoncore.MainActivity")
+staticinvoke <android.util.Log: int d(java.lang.String,java.lang.String)>("DebugInfo", "5adaad892230c5a8a7477e1f8e9fc6ee257db9012395d4019b6d000bab8df9ce:ClickRegistered:$r6 = virtualinvoke $r6.<java.lang.StringBuilder: java.lang.StringBuilder append(java.lang.String)>(\"-->Prepare failed to get an impression to show for type \")")
+Declaring Class:java.lang.StringBuilder
+staticinvoke <android.util.Log: int d(java.lang.String,java.lang.String)>("DebugInfo", "5adaad892230c5a8a7477e1f8e9fc6ee257db9012395d4019b6d000bab8df9ce:ClickRegistered:$r6 = virtualinvoke $r6.<java.lang.StringBuilder: java.lang.StringBuilder append(java.lang.String)>(\"-->Prepare with impression_id list \")")
+Declaring Class:java.lang.StringBuilder
+Soot finished on Fri Mar 05 08:56:46 EST 2021
+Soot has run for 0 min. 36 sec.

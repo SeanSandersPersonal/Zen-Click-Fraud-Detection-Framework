@@ -1,0 +1,5 @@
+Soot started on Thu Mar 04 23:25:45 EST 2021
+Found oncreate
+staticinvoke <android.util.Log: int d(java.lang.String,java.lang.String)>("DebugInfo", "2e4232a8d80bed5de120f369f006822830b2df7384087fc7ef7654dd95259a92:App Started:r0 := @this: com.acgui.acupressureguide.MainActivity")
+Soot finished on Thu Mar 04 23:26:00 EST 2021
+Soot has run for 0 min. 15 sec.

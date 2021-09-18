@@ -1,0 +1,5 @@
+Soot started on Fri Mar 05 09:55:05 EST 2021
+Found oncreate
+staticinvoke <android.util.Log: int d(java.lang.String,java.lang.String)>("DebugInfo", "5f85acf984eb6e573cdcea5becd8ff0d10843c4ea3dd55aeeac50c7624c4036d:App Started:r0 := @this: com.superplanet.maplestory.view.activity.MainActivity")
+Soot finished on Fri Mar 05 09:55:28 EST 2021
+Soot has run for 0 min. 23 sec.

@@ -1,0 +1,5 @@
+Soot started on Fri Mar 05 06:47:11 EST 2021
+com.facebook.ads.InterstitialAdActivity Library Found
+com.google.android.gms.ads.AdView Library Found
+Soot finished on Fri Mar 05 06:47:40 EST 2021
+Soot has run for 0 min. 28 sec.

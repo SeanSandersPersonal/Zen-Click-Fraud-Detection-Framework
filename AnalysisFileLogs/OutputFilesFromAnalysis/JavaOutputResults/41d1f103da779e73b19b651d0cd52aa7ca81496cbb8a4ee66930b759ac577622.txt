@@ -1,0 +1,6 @@
+Soot started on Fri Mar 05 03:36:52 EST 2021
+com.google.ads.mediation.jsadapter.AdViewCheckTask$a Library Found
+Found oncreate
+staticinvoke <android.util.Log: int d(java.lang.String,java.lang.String)>("DebugInfo", "41d1f103da779e73b19b651d0cd52aa7ca81496cbb8a4ee66930b759ac577622:App Started:r0 := @this: steelpulse.flowsounds.music.MainActivity")
+Soot finished on Fri Mar 05 03:37:08 EST 2021
+Soot has run for 0 min. 16 sec.

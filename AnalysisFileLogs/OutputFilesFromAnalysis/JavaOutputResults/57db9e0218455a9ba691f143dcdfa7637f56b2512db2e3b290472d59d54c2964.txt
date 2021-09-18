@@ -1,0 +1,10 @@
+Soot started on Fri Mar 05 08:18:25 EST 2021
+com.google.android.gms.ads.internal.reward.mediation.client.zza$zza Library Found
+Found oncreate
+staticinvoke <android.util.Log: int d(java.lang.String,java.lang.String)>("DebugInfo", "57db9e0218455a9ba691f143dcdfa7637f56b2512db2e3b290472d59d54c2964:App Started:r0 := @this: com.smougen.straw.locker.ui.MainActivity")
+staticinvoke <android.util.Log: int d(java.lang.String,java.lang.String)>("DebugInfo", "57db9e0218455a9ba691f143dcdfa7637f56b2512db2e3b290472d59d54c2964:AdClicked:virtualinvoke r0.<com.google.android.gms.internal.zzcv$zza: void performClick(java.lang.String)>($r3)")
+Declaring Class:com.google.android.gms.internal.zzcv$zza
+staticinvoke <android.util.Log: int d(java.lang.String,java.lang.String)>("DebugInfo", "57db9e0218455a9ba691f143dcdfa7637f56b2512db2e3b290472d59d54c2964:ClickRegistered:$r6 = virtualinvoke $r6.<java.lang.StringBuilder: java.lang.StringBuilder append(java.lang.String)>(\" impression is not supported\")")
+Declaring Class:java.lang.StringBuilder
+Soot finished on Fri Mar 05 08:19:28 EST 2021
+Soot has run for 1 min. 3 sec.

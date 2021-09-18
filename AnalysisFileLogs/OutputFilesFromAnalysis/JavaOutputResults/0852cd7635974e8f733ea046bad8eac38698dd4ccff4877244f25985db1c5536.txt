@@ -1,0 +1,5 @@
+Soot started on Thu Mar 04 15:43:14 EST 2021
+Found oncreate
+staticinvoke <android.util.Log: int d(java.lang.String,java.lang.String)>("DebugInfo", "0852cd7635974e8f733ea046bad8eac38698dd4ccff4877244f25985db1c5536:App Started:r0 := @this: com.unbrained.flycatcher.app.MainActivity")
+Soot finished on Thu Mar 04 15:43:28 EST 2021
+Soot has run for 0 min. 13 sec.

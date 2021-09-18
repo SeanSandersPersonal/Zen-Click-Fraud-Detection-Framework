@@ -1,0 +1,7 @@
+Soot started on Thu Mar 04 20:48:50 EST 2021
+com.google.android.gms.ads.doubleclick.PublisherAdView Library Found
+com.facebook.ads.internal.view.j Library Found
+Found oncreate
+staticinvoke <android.util.Log: int d(java.lang.String,java.lang.String)>("DebugInfo", "20c8f733788835ba6e15c4a07ccbcab47859305d135bc73d840af2abd504d474:App Started:r0 := @this: com.rcplatform.selfiecamera.activity.MainActivity")
+Soot finished on Thu Mar 04 20:49:37 EST 2021
+Soot has run for 0 min. 46 sec.

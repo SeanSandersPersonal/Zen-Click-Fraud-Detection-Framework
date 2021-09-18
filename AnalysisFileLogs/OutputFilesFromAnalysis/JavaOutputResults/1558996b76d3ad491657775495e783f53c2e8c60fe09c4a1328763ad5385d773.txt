@@ -1,0 +1,5 @@
+Soot started on Thu Mar 04 18:23:18 EST 2021
+Found oncreate
+staticinvoke <android.util.Log: int d(java.lang.String,java.lang.String)>("DebugInfo", "1558996b76d3ad491657775495e783f53c2e8c60fe09c4a1328763ad5385d773:App Started:r0 := @this: com.camelgames.bomb.MainActivity")
+Soot finished on Thu Mar 04 18:23:26 EST 2021
+Soot has run for 0 min. 7 sec.

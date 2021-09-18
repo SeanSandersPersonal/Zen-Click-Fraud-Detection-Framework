@@ -1,0 +1,4 @@
+Soot started on Fri Mar 05 00:36:06 EST 2021
+com.google.android.gms.ads.AdView Library Found
+Soot finished on Fri Mar 05 00:36:27 EST 2021
+Soot has run for 0 min. 21 sec.

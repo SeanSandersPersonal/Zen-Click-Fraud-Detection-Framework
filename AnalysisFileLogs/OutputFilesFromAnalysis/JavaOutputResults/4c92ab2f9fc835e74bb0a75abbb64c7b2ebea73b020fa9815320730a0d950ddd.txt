@@ -1,0 +1,10 @@
+Soot started on Fri Mar 05 05:58:14 EST 2021
+com.google.android.gms.ads.internal.zzc$3$1 Library Found
+Found oncreate
+staticinvoke <android.util.Log: int d(java.lang.String,java.lang.String)>("DebugInfo", "4c92ab2f9fc835e74bb0a75abbb64c7b2ebea73b020fa9815320730a0d950ddd:App Started:r0 := @this: com.Filters.forPrismapplications.MainActivity")
+staticinvoke <android.util.Log: int d(java.lang.String,java.lang.String)>("DebugInfo", "4c92ab2f9fc835e74bb0a75abbb64c7b2ebea73b020fa9815320730a0d950ddd:ClickRegistered:$r6 = virtualinvoke $r6.<java.lang.StringBuilder: java.lang.StringBuilder append(java.lang.String)>(\" as delayed impression is not supported\")")
+Declaring Class:java.lang.StringBuilder
+staticinvoke <android.util.Log: int d(java.lang.String,java.lang.String)>("DebugInfo", "4c92ab2f9fc835e74bb0a75abbb64c7b2ebea73b020fa9815320730a0d950ddd:AdClicked:virtualinvoke r0.<com.google.android.gms.internal.zzcp$zza: void performClick(java.lang.String)>($r3)")
+Declaring Class:com.google.android.gms.internal.zzcp$zza
+Soot finished on Fri Mar 05 05:58:47 EST 2021
+Soot has run for 0 min. 32 sec.

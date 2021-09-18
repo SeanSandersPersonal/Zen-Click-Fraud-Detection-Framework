@@ -1,0 +1,6 @@
+Soot started on Fri Mar 05 08:14:41 EST 2021
+com.google.android.gms.ads.internal.overlay.zzc$zzb Library Found
+Found oncreate
+staticinvoke <android.util.Log: int d(java.lang.String,java.lang.String)>("DebugInfo", "5771698c7e7d47884a90afb8a49c819e7c9db99ad8e994ab29e85afede5c6037:App Started:r0 := @this: com.lyrebirdstudio.twitter.TwitterMainActivity")
+Soot finished on Fri Mar 05 08:15:12 EST 2021
+Soot has run for 0 min. 30 sec.

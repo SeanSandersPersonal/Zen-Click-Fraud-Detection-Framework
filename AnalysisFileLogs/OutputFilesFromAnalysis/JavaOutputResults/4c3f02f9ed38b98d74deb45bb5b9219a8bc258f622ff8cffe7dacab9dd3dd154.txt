@@ -1,0 +1,8 @@
+Soot started on Fri Mar 05 05:53:34 EST 2021
+com.google.android.gms.ads.search.SearchAdView Library Found
+staticinvoke <android.util.Log: int d(java.lang.String,java.lang.String)>("DebugInfo", "4c3f02f9ed38b98d74deb45bb5b9219a8bc258f622ff8cffe7dacab9dd3dd154:ClickRegistered:$r6 = virtualinvoke $r6.<java.lang.StringBuilder: java.lang.StringBuilder append(java.lang.String)>(\"-->Prepare failed to get an impression to show for type \")")
+Declaring Class:java.lang.StringBuilder
+staticinvoke <android.util.Log: int d(java.lang.String,java.lang.String)>("DebugInfo", "4c3f02f9ed38b98d74deb45bb5b9219a8bc258f622ff8cffe7dacab9dd3dd154:ClickRegistered:$r6 = virtualinvoke $r6.<java.lang.StringBuilder: java.lang.StringBuilder append(java.lang.String)>(\"-->Prepare with impression_id list \")")
+Declaring Class:java.lang.StringBuilder
+Soot finished on Fri Mar 05 05:54:44 EST 2021
+Soot has run for 1 min. 9 sec.

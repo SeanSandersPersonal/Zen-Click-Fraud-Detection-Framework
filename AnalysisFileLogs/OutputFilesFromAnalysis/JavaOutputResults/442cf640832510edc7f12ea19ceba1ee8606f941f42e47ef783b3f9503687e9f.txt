@@ -1,0 +1,5 @@
+Soot started on Fri Mar 05 04:07:20 EST 2021
+Found oncreate
+staticinvoke <android.util.Log: int d(java.lang.String,java.lang.String)>("DebugInfo", "442cf640832510edc7f12ea19ceba1ee8606f941f42e47ef783b3f9503687e9f:App Started:r0 := @this: com.Photo_Avatar_Maker_Simple_118074.MainActivity")
+Soot finished on Fri Mar 05 04:07:32 EST 2021
+Soot has run for 0 min. 12 sec.

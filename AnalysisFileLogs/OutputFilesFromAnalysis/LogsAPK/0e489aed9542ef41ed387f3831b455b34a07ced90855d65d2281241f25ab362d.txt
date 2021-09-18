@@ -1,0 +1,3 @@
+
+Class: com.miniram.friendlay.LoginActivity
+0e489aed9542ef41ed387f3831b455b34a07ced90855d65d2281241f25ab362d: void onClick(android.view.View)

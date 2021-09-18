@@ -1,0 +1,5 @@
+Soot started on Thu Mar 04 20:08:55 EST 2021
+Found oncreate
+staticinvoke <android.util.Log: int d(java.lang.String,java.lang.String)>("DebugInfo", "1d844086b7715e2e0452dfd8a67d3a6e581327a8c641bc29164cab9eb6207d92:App Started:r0 := @this: com.tyrant.timercount.ui.MainActivity")
+Soot finished on Thu Mar 04 20:09:00 EST 2021
+Soot has run for 0 min. 4 sec.

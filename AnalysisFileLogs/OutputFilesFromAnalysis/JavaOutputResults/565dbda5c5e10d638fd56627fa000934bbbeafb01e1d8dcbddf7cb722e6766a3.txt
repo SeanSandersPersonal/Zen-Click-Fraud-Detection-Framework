@@ -1,0 +1,8 @@
+Soot started on Fri Mar 05 08:00:55 EST 2021
+com.google.ads.h$1 Library Found
+staticinvoke <android.util.Log: int d(java.lang.String,java.lang.String)>("DebugInfo", "565dbda5c5e10d638fd56627fa000934bbbeafb01e1d8dcbddf7cb722e6766a3:AdClicked:virtualinvoke $r3.<com.facebook.widget.LoginButton: boolean performClick()>()")
+Declaring Class:com.facebook.widget.LoginButton
+Found oncreate
+staticinvoke <android.util.Log: int d(java.lang.String,java.lang.String)>("DebugInfo", "565dbda5c5e10d638fd56627fa000934bbbeafb01e1d8dcbddf7cb722e6766a3:App Started:r0 := @this: com.example.lasotuvi.MainActivity")
+Soot finished on Fri Mar 05 08:01:14 EST 2021
+Soot has run for 0 min. 19 sec.

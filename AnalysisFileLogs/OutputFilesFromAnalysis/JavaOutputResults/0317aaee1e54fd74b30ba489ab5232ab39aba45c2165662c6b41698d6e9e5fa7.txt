@@ -1,0 +1,4 @@
+Soot started on Thu Mar 04 14:33:10 EST 2021
+com.google.ads.util.AdUtil$UserActivityReceiver Library Found
+Soot finished on Thu Mar 04 14:33:45 EST 2021
+Soot has run for 0 min. 35 sec.

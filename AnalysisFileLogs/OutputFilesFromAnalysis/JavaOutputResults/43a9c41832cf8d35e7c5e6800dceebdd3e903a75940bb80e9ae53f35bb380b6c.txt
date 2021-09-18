@@ -1,0 +1,5 @@
+Soot started on Fri Mar 05 04:04:11 EST 2021
+Found oncreate
+staticinvoke <android.util.Log: int d(java.lang.String,java.lang.String)>("DebugInfo", "43a9c41832cf8d35e7c5e6800dceebdd3e903a75940bb80e9ae53f35bb380b6c:App Started:r0 := @this: com.unbrained.wifipasswordgenerator.app.MainActivity")
+Soot finished on Fri Mar 05 04:04:23 EST 2021
+Soot has run for 0 min. 12 sec.

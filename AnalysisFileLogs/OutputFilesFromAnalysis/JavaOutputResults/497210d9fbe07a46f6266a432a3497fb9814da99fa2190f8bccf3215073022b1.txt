@@ -1,0 +1,5 @@
+Soot started on Fri Mar 05 05:11:20 EST 2021
+Found oncreate
+staticinvoke <android.util.Log: int d(java.lang.String,java.lang.String)>("DebugInfo", "497210d9fbe07a46f6266a432a3497fb9814da99fa2190f8bccf3215073022b1:App Started:r0 := @this: com.ecapycsw.onetouchdrawingbysc.MainActivity")
+Soot finished on Fri Mar 05 05:11:30 EST 2021
+Soot has run for 0 min. 10 sec.

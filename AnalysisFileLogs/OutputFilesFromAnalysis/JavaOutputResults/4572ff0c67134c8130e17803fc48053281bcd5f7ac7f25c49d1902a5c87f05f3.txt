@@ -1,0 +1,6 @@
+Soot started on Fri Mar 05 04:21:54 EST 2021
+com.google.android.gms.ads.identifier.AdvertisingIdClient$a Library Found
+Found oncreate
+staticinvoke <android.util.Log: int d(java.lang.String,java.lang.String)>("DebugInfo", "4572ff0c67134c8130e17803fc48053281bcd5f7ac7f25c49d1902a5c87f05f3:App Started:r0 := @this: com.jkfantasy.camera.jkpmagnifiercamera.MainActivity")
+Soot finished on Fri Mar 05 04:22:16 EST 2021
+Soot has run for 0 min. 22 sec.

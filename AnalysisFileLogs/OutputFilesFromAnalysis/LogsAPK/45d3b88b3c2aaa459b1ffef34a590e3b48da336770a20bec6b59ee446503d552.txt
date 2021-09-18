@@ -1,0 +1,4 @@
+
+Class: com.google.zxing.client.android.switchbutton.SwitchButton$PerformClick
+45d3b88b3c2aaa459b1ffef34a590e3b48da336770a20bec6b59ee446503d552: void run()
+45d3b88b3c2aaa459b1ffef34a590e3b48da336770a20bec6b59ee446503d552: boolean onTouchEvent(android.view.MotionEvent)

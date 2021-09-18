@@ -1,0 +1,9 @@
+Soot started on Thu Mar 04 16:34:36 EST 2021
+com.google.android.gms.ads.internal.overlay.zzc$4 Library Found
+com.facebook.ads.internal.view.d$4 Library Found
+Found oncreate
+staticinvoke <android.util.Log: int d(java.lang.String,java.lang.String)>("DebugInfo", "0cc155495a5d5a52bf796f7b51be92db68194cd676d25702af85fcf9710d8b5d:App Started:r0 := @this: com.unity3d.player.PsmMainActivity")
+staticinvoke <android.util.Log: int d(java.lang.String,java.lang.String)>("DebugInfo", "0cc155495a5d5a52bf796f7b51be92db68194cd676d25702af85fcf9710d8b5d:AdClicked:virtualinvoke r0.<com.google.android.gms.internal.zzcr$zza: void performClick(java.lang.String)>($r3)")
+Declaring Class:com.google.android.gms.internal.zzcr$zza
+Soot finished on Thu Mar 04 16:35:16 EST 2021
+Soot has run for 0 min. 39 sec.

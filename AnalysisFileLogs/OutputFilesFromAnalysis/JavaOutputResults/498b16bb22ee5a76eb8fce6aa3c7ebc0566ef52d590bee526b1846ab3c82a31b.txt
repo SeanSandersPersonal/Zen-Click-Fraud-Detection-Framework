@@ -1,0 +1,6 @@
+Soot started on Fri Mar 05 05:12:48 EST 2021
+com.google.android.gms.ads.AdView Library Found
+Found oncreate
+staticinvoke <android.util.Log: int d(java.lang.String,java.lang.String)>("DebugInfo", "498b16bb22ee5a76eb8fce6aa3c7ebc0566ef52d590bee526b1846ab3c82a31b:App Started:r0 := @this: com.examplenab.catholic_bible.MainActivity")
+Soot finished on Fri Mar 05 05:13:12 EST 2021
+Soot has run for 0 min. 23 sec.

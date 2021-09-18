@@ -1,0 +1,6 @@
+Soot started on Fri Mar 05 02:07:33 EST 2021
+com.google.android.gms.ads.AdActivity Library Found
+Found oncreate
+staticinvoke <android.util.Log: int d(java.lang.String,java.lang.String)>("DebugInfo", "3b4481ca1b67ed632b27651b6e0f761f81a863f12cee74983f932b53aab1144a:App Started:r0 := @this: com.wallgalaxyy.wallpaper.GraffitiSkate.MainActivity")
+Soot finished on Fri Mar 05 02:07:53 EST 2021
+Soot has run for 0 min. 19 sec.

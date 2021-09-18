@@ -1,0 +1,5 @@
+Soot started on Thu Mar 04 22:02:36 EST 2021
+Found oncreate
+staticinvoke <android.util.Log: int d(java.lang.String,java.lang.String)>("DebugInfo", "26f08309ba59e7096f3428be34531c6e26ba4d71b82f4d6f24be11d3c162a84d:App Started:r0 := @this: com.wordcam.pro.MainActivity")
+Soot finished on Thu Mar 04 22:02:46 EST 2021
+Soot has run for 0 min. 9 sec.

@@ -1,0 +1,5 @@
+Soot started on Fri Mar 05 09:51:22 EST 2021
+Found oncreate
+staticinvoke <android.util.Log: int d(java.lang.String,java.lang.String)>("DebugInfo", "5f06130b079488b6985d5718e4b14a1c9ea83ca79976443c15abbdc570879bbc:App Started:r0 := @this: com.centsol.PakTvLive.MainActivity")
+Soot finished on Fri Mar 05 09:51:36 EST 2021
+Soot has run for 0 min. 13 sec.

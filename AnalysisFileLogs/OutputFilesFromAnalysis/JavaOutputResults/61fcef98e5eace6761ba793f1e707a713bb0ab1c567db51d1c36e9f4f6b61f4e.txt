@@ -1,0 +1,5 @@
+Soot started on Fri Mar 05 10:28:26 EST 2021
+Found oncreate
+staticinvoke <android.util.Log: int d(java.lang.String,java.lang.String)>("DebugInfo", "61fcef98e5eace6761ba793f1e707a713bb0ab1c567db51d1c36e9f4f6b61f4e:App Started:r0 := @this: xaozvly.ledshow.MainActivity$ColorPickerDialog")
+Soot finished on Fri Mar 05 10:28:34 EST 2021
+Soot has run for 0 min. 7 sec.

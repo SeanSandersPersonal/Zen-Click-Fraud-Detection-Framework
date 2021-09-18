@@ -1,0 +1,5 @@
+Soot started on Thu Mar 04 22:32:54 EST 2021
+Found oncreate
+staticinvoke <android.util.Log: int d(java.lang.String,java.lang.String)>("DebugInfo", "29eac94ebf21e165f802db370c8d81f58e6200def78e5ec25e474f10912cd37a:App Started:r0 := @this: kr.com.flashlightO.MainActivity")
+Soot finished on Thu Mar 04 22:33:01 EST 2021
+Soot has run for 0 min. 7 sec.

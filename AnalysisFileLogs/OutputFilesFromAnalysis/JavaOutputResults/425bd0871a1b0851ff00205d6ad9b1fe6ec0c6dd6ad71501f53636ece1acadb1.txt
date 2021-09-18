@@ -1,0 +1,5 @@
+Soot started on Fri Mar 05 03:44:55 EST 2021
+Found oncreate
+staticinvoke <android.util.Log: int d(java.lang.String,java.lang.String)>("DebugInfo", "425bd0871a1b0851ff00205d6ad9b1fe6ec0c6dd6ad71501f53636ece1acadb1:App Started:r0 := @this: com.hypercube.Guess_Du.MainActivity")
+Soot finished on Fri Mar 05 03:45:08 EST 2021
+Soot has run for 0 min. 13 sec.

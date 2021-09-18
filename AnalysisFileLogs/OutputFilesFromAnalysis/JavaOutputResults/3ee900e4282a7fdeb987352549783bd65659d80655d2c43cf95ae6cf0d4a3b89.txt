@@ -1,0 +1,5 @@
+Soot started on Fri Mar 05 02:58:01 EST 2021
+Found oncreate
+staticinvoke <android.util.Log: int d(java.lang.String,java.lang.String)>("DebugInfo", "3ee900e4282a7fdeb987352549783bd65659d80655d2c43cf95ae6cf0d4a3b89:App Started:r0 := @this: com.newhopeandroidapp.photo.PhotoFramesFlowerLovely.activities.MainActivity")
+Soot finished on Fri Mar 05 02:58:12 EST 2021
+Soot has run for 0 min. 11 sec.

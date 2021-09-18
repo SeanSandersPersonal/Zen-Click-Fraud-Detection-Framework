@@ -1,0 +1,10 @@
+Soot started on Thu Mar 04 20:18:13 EST 2021
+com.google.android.gms.ads.internal.overlay.zzc$4 Library Found
+staticinvoke <android.util.Log: int d(java.lang.String,java.lang.String)>("DebugInfo", "1e261ef97fa45a80f0e2376364a793e6c431fa265dbb6301434343a55c964486:AdClicked:virtualinvoke r0.<com.google.android.gms.internal.zzcv$zza: void performClick(java.lang.String)>($r3)")
+Declaring Class:com.google.android.gms.internal.zzcv$zza
+staticinvoke <android.util.Log: int d(java.lang.String,java.lang.String)>("DebugInfo", "1e261ef97fa45a80f0e2376364a793e6c431fa265dbb6301434343a55c964486:ClickRegistered:$r6 = virtualinvoke $r6.<java.lang.StringBuilder: java.lang.StringBuilder append(java.lang.String)>(\" impression is not supported\")")
+Declaring Class:java.lang.StringBuilder
+Found oncreate
+staticinvoke <android.util.Log: int d(java.lang.String,java.lang.String)>("DebugInfo", "1e261ef97fa45a80f0e2376364a793e6c431fa265dbb6301434343a55c964486:App Started:r0 := @this: com.fsn.cauly.blackdragoncore.MainActivity")
+Soot finished on Thu Mar 04 20:19:00 EST 2021
+Soot has run for 0 min. 47 sec.

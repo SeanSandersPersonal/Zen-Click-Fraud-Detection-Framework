@@ -1,0 +1,6 @@
+Soot started on Fri Mar 05 09:57:45 EST 2021
+com.google.android.gms.ads.AdActivity Library Found
+Found oncreate
+staticinvoke <android.util.Log: int d(java.lang.String,java.lang.String)>("DebugInfo", "5fe0b54aab9847eff16e1ef2ad6b09a9dcecf802186a1f4173edcc8fa9d92441:App Started:r0 := @this: com.oldmusic.showcase.genie.genie.activity.MainActivity")
+Soot finished on Fri Mar 05 09:58:08 EST 2021
+Soot has run for 0 min. 23 sec.

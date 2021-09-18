@@ -1,0 +1,5 @@
+Soot started on Fri Mar 05 06:43:20 EST 2021
+Found oncreate
+staticinvoke <android.util.Log: int d(java.lang.String,java.lang.String)>("DebugInfo", "4fe145327496b7716f37bfb4fdf75a97f186b1a37294190f12b21b9f941a7ad8:App Started:r0 := @this: com.pingkewmg.viberuser.MainActivity")
+Soot finished on Fri Mar 05 06:43:29 EST 2021
+Soot has run for 0 min. 9 sec.

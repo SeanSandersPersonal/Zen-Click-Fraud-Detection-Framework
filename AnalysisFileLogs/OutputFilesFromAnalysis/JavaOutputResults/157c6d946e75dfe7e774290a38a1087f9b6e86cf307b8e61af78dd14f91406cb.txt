@@ -1,0 +1,5 @@
+Soot started on Thu Mar 04 18:24:44 EST 2021
+Found oncreate
+staticinvoke <android.util.Log: int d(java.lang.String,java.lang.String)>("DebugInfo", "157c6d946e75dfe7e774290a38a1087f9b6e86cf307b8e61af78dd14f91406cb:App Started:r0 := @this: com.androidesk.livewallpaper.MainActivity")
+Soot finished on Thu Mar 04 18:24:56 EST 2021
+Soot has run for 0 min. 12 sec.

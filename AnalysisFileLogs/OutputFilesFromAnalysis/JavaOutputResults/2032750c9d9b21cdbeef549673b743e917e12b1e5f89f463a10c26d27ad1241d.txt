@@ -1,0 +1,6 @@
+Soot started on Thu Mar 04 20:41:37 EST 2021
+com.google.ads.internal.i Library Found
+Found oncreate
+staticinvoke <android.util.Log: int d(java.lang.String,java.lang.String)>("DebugInfo", "2032750c9d9b21cdbeef549673b743e917e12b1e5f89f463a10c26d27ad1241d:App Started:r0 := @this: com.webcraftbd.radio.MainActivity")
+Soot finished on Thu Mar 04 20:41:46 EST 2021
+Soot has run for 0 min. 9 sec.

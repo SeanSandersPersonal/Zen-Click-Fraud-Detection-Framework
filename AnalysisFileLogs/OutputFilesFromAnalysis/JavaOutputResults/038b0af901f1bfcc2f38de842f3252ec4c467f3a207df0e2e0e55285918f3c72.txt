@@ -1,0 +1,6 @@
+Soot started on Thu Mar 04 14:39:15 EST 2021
+com.google.ads.af Library Found
+Found oncreate
+staticinvoke <android.util.Log: int d(java.lang.String,java.lang.String)>("DebugInfo", "038b0af901f1bfcc2f38de842f3252ec4c467f3a207df0e2e0e55285918f3c72:App Started:r0 := @this: com.sports.ball.Probaseball_live_info.ProBaseBallMainActivity")
+Soot finished on Thu Mar 04 14:39:52 EST 2021
+Soot has run for 0 min. 37 sec.

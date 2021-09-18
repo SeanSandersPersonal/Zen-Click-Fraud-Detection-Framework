@@ -1,0 +1,3 @@
+
+Class: com.giraffegames.unityutil.GGAmazonAds$2
+4216c643cde3b8749e4b85e5a38209fb89d1ba3d8e819346d70c47f51d6a7c48: void run()

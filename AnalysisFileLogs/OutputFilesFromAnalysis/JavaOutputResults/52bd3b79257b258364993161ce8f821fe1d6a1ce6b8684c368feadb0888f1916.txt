@@ -1,0 +1,9 @@
+Soot started on Fri Mar 05 07:19:47 EST 2021
+com.google.android.gms.ads.search.SearchAdView Library Found
+com.facebook.ads.a.ah$a Library Found
+staticinvoke <android.util.Log: int d(java.lang.String,java.lang.String)>("DebugInfo", "52bd3b79257b258364993161ce8f821fe1d6a1ce6b8684c368feadb0888f1916:LoadAd:virtualinvoke $r2.<com.facebook.ads.AdView: void loadAd()>()")
+Declaring Class:com.facebook.ads.AdView
+Found oncreate
+staticinvoke <android.util.Log: int d(java.lang.String,java.lang.String)>("DebugInfo", "52bd3b79257b258364993161ce8f821fe1d6a1ce6b8684c368feadb0888f1916:App Started:r0 := @this: com.fsn.cauly.blackdragoncore.MainActivity")
+Soot finished on Fri Mar 05 07:20:28 EST 2021
+Soot has run for 0 min. 41 sec.

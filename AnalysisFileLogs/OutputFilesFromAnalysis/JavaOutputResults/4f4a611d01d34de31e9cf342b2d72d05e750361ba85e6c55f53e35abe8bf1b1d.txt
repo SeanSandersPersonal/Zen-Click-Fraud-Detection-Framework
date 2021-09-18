@@ -1,0 +1,6 @@
+Soot started on Fri Mar 05 06:32:53 EST 2021
+com.google.android.gms.ads.AdActivity Library Found
+Found oncreate
+staticinvoke <android.util.Log: int d(java.lang.String,java.lang.String)>("DebugInfo", "4f4a611d01d34de31e9cf342b2d72d05e750361ba85e6c55f53e35abe8bf1b1d:App Started:r0 := @this: com.lingling.game.tankeren.main.MainActivity")
+Soot finished on Fri Mar 05 06:33:11 EST 2021
+Soot has run for 0 min. 18 sec.

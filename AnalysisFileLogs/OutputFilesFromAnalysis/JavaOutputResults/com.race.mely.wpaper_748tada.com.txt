@@ -1,0 +1,8 @@
+Soot started on Thu May 13 13:17:53 EDT 2021
+com.google.android.gms.internal.ads.zzeg Library Found
+Found oncreate
+staticinvoke <android.util.Log: int d(java.lang.String,java.lang.String)>("DebugInfo", "com.race.mely.wpaper_748_apktada.com:App Started:r0 := @this: com.facebook.CustomTabMainActivity")
+staticinvoke <android.util.Log: int d(java.lang.String,java.lang.String)>("DebugInfo", "com.race.mely.wpaper_748_apktada.com:AdClicked:virtualinvoke r0.<com.google.android.material.chip.Chip: boolean performClick()>()")
+Declaring Class:com.google.android.material.chip.Chip
+Soot finished on Thu May 13 13:18:56 EDT 2021
+Soot has run for 1 min. 3 sec.

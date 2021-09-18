@@ -1,0 +1,5 @@
+Soot started on Thu Mar 04 15:47:59 EST 2021
+Found oncreate
+staticinvoke <android.util.Log: int d(java.lang.String,java.lang.String)>("DebugInfo", "08e11e59eb9d5fb822baaddc4c45ca7b7ddbc63d22c144fb1f92d5fe0bce4f9e:App Started:r0 := @this: com.goldenapps.wifipasswordgenerator.MainActivity")
+Soot finished on Thu Mar 04 15:48:10 EST 2021
+Soot has run for 0 min. 11 sec.

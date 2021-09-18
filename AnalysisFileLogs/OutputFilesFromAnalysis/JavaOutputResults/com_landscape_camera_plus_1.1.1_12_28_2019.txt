@@ -1,0 +1,8 @@
+Soot started on Thu May 13 10:26:30 EDT 2021
+com.google.android.gms.internal.ads.zzbiv Library Found
+staticinvoke <android.util.Log: int d(java.lang.String,java.lang.String)>("DebugInfo", "com_landscape_camera_plus_1.1.1_12_28_2019:AdClicked:virtualinvoke r0.<com.google.android.material.chip.Chip: boolean performClick()>()")
+Declaring Class:com.google.android.material.chip.Chip
+Found oncreate
+staticinvoke <android.util.Log: int d(java.lang.String,java.lang.String)>("DebugInfo", "com_landscape_camera_plus_1.1.1_12_28_2019:App Started:r0 := @this: com.tafayor.selfcamerashot.MainActivity")
+Soot finished on Thu May 13 10:27:59 EDT 2021
+Soot has run for 1 min. 29 sec.

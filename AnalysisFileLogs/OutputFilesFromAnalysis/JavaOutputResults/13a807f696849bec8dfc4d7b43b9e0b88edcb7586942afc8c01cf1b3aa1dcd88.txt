@@ -1,0 +1,6 @@
+Soot started on Thu Mar 04 18:06:15 EST 2021
+com.google.android.gms.ads.AdActivity Library Found
+Found oncreate
+staticinvoke <android.util.Log: int d(java.lang.String,java.lang.String)>("DebugInfo", "13a807f696849bec8dfc4d7b43b9e0b88edcb7586942afc8c01cf1b3aa1dcd88:App Started:r0 := @this: com.whalemobile.malaysia_air_pollution.MainActivity")
+Soot finished on Thu Mar 04 18:06:33 EST 2021
+Soot has run for 0 min. 17 sec.

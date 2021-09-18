@@ -1,0 +1,5 @@
+Soot started on Fri Mar 05 02:03:02 EST 2021
+Found oncreate
+staticinvoke <android.util.Log: int d(java.lang.String,java.lang.String)>("DebugInfo", "3b0a6492df9018ba566a5071738380690320bdefeefccd7d9432652f31f507f6:App Started:r0 := @this: ice.run.penguin.run.game.MainActivity")
+Soot finished on Fri Mar 05 02:03:21 EST 2021
+Soot has run for 0 min. 18 sec.

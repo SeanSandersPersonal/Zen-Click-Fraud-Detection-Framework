@@ -1,0 +1,5 @@
+Soot started on Fri Mar 05 10:32:14 EST 2021
+Found oncreate
+staticinvoke <android.util.Log: int d(java.lang.String,java.lang.String)>("DebugInfo", "62415366985afd2684ac49a7cfc0735c80c120a14cc3cfe4bef5f466360b2cd5:App Started:r0 := @this: deploy.games.maxgoldhunterplus.MainActivity")
+Soot finished on Fri Mar 05 10:32:29 EST 2021
+Soot has run for 0 min. 15 sec.

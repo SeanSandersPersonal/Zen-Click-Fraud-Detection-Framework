@@ -1,0 +1,6 @@
+Soot started on Thu Mar 04 17:29:29 EST 2021
+com.google.ads.internal.c$e Library Found
+Found oncreate
+staticinvoke <android.util.Log: int d(java.lang.String,java.lang.String)>("DebugInfo", "10d0bd3ac5529553ac91ad4579be1914a0ca04e6c86311956dca43f11ea47d1b:App Started:r0 := @this: com.maxfun.horsesounds.MainActivity")
+Soot finished on Thu Mar 04 17:29:46 EST 2021
+Soot has run for 0 min. 16 sec.

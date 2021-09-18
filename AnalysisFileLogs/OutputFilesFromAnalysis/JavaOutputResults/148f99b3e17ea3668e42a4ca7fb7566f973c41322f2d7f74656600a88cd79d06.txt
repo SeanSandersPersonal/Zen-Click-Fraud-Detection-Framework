@@ -1,0 +1,5 @@
+Soot started on Thu Mar 04 18:17:23 EST 2021
+Found oncreate
+staticinvoke <android.util.Log: int d(java.lang.String,java.lang.String)>("DebugInfo", "148f99b3e17ea3668e42a4ca7fb7566f973c41322f2d7f74656600a88cd79d06:App Started:r0 := @this: torrentxf.iloverun.mainactivity")
+Soot finished on Thu Mar 04 18:17:31 EST 2021
+Soot has run for 0 min. 8 sec.

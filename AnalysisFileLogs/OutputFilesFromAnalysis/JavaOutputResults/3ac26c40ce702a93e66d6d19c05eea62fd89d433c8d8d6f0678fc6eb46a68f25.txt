@@ -1,0 +1,6 @@
+Soot started on Fri Mar 05 02:01:02 EST 2021
+com.google.ads.at$a Library Found
+Found oncreate
+staticinvoke <android.util.Log: int d(java.lang.String,java.lang.String)>("DebugInfo", "3ac26c40ce702a93e66d6d19c05eea62fd89d433c8d8d6f0678fc6eb46a68f25:App Started:r0 := @this: com.fromthebenchgames.core.MainActivity")
+Soot finished on Fri Mar 05 02:01:35 EST 2021
+Soot has run for 0 min. 33 sec.

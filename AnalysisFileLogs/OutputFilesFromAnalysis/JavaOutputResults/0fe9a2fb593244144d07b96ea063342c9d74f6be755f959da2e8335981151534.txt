@@ -1,0 +1,6 @@
+Soot started on Thu Mar 04 17:18:37 EST 2021
+com.google.android.gms.ads.internal.overlay.zzc Library Found
+staticinvoke <android.util.Log: int d(java.lang.String,java.lang.String)>("DebugInfo", "0fe9a2fb593244144d07b96ea063342c9d74f6be755f959da2e8335981151534:AdClicked:virtualinvoke r0.<com.google.android.gms.internal.zzcu$zza: void performClick(java.lang.String)>($r3)")
+Declaring Class:com.google.android.gms.internal.zzcu$zza
+Soot finished on Thu Mar 04 17:19:07 EST 2021
+Soot has run for 0 min. 29 sec.

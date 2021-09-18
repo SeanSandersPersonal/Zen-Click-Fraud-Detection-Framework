@@ -1,0 +1,8 @@
+Soot started on Fri Mar 05 07:12:11 EST 2021
+com.google.android.gms.ads.internal.zzf Library Found
+staticinvoke <android.util.Log: int d(java.lang.String,java.lang.String)>("DebugInfo", "5212ee36ccf6fa8b490878cf6b26d345dce790c5c0745e190e3b52a89fb80db5:AdClicked:virtualinvoke r0.<com.google.android.gms.internal.zzcp$zza: void performClick(java.lang.String)>($r3)")
+Declaring Class:com.google.android.gms.internal.zzcp$zza
+staticinvoke <android.util.Log: int d(java.lang.String,java.lang.String)>("DebugInfo", "5212ee36ccf6fa8b490878cf6b26d345dce790c5c0745e190e3b52a89fb80db5:ClickRegistered:$r6 = virtualinvoke $r6.<java.lang.StringBuilder: java.lang.StringBuilder append(java.lang.String)>(\" as delayed impression is not supported\")")
+Declaring Class:java.lang.StringBuilder
+Soot finished on Fri Mar 05 07:12:39 EST 2021
+Soot has run for 0 min. 28 sec.

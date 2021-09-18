@@ -1,0 +1,5 @@
+Soot started on Thu Mar 04 14:29:16 EST 2021
+Found oncreate
+staticinvoke <android.util.Log: int d(java.lang.String,java.lang.String)>("DebugInfo", "02bb0aaefdefd5489b73eaa52ed34b166603e28435a3417cf28c8dc281ef430f:App Started:r0 := @this: com.swarmconnect.SwarmMainActivity")
+Soot finished on Thu Mar 04 14:29:30 EST 2021
+Soot has run for 0 min. 13 sec.

@@ -1,0 +1,7 @@
+Soot started on Fri Mar 05 10:08:55 EST 2021
+com.amazon.device.ads.AdLayout Library Found
+com.google.android.gms.ads.AdView Library Found
+Found oncreate
+staticinvoke <android.util.Log: int d(java.lang.String,java.lang.String)>("DebugInfo", "60a5be48b3e0f936523732aff15135c801495aab35674e57d03fc013f63ee954:App Started:r0 := @this: com.minipetmedia.android_animalpuzzle.MainActivity")
+Soot finished on Fri Mar 05 10:09:29 EST 2021
+Soot has run for 0 min. 34 sec.

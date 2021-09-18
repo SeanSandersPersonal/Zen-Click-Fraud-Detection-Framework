@@ -1,0 +1,5 @@
+Soot started on Fri Mar 05 03:21:50 EST 2021
+Found oncreate
+staticinvoke <android.util.Log: int d(java.lang.String,java.lang.String)>("DebugInfo", "40969a8b0a62af9e56dd55ee69d2ebf43f44a6ebd11a5bf31655e9c6c60648c6:App Started:r0 := @this: com.runestonegames.mysterycastle.episode1.MainActivity")
+Soot finished on Fri Mar 05 03:21:57 EST 2021
+Soot has run for 0 min. 7 sec.

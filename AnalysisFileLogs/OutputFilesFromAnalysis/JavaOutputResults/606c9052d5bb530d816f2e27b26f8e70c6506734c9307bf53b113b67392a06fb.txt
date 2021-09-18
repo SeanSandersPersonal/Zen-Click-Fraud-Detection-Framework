@@ -1,0 +1,5 @@
+Soot started on Fri Mar 05 10:06:51 EST 2021
+Found oncreate
+staticinvoke <android.util.Log: int d(java.lang.String,java.lang.String)>("DebugInfo", "606c9052d5bb530d816f2e27b26f8e70c6506734c9307bf53b113b67392a06fb:App Started:r0 := @this: com.micongke.app.freewifi.MainActivity")
+Soot finished on Fri Mar 05 10:07:04 EST 2021
+Soot has run for 0 min. 12 sec.

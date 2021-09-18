@@ -1,0 +1,5 @@
+Soot started on Fri Mar 05 03:47:11 EST 2021
+Found oncreate
+staticinvoke <android.util.Log: int d(java.lang.String,java.lang.String)>("DebugInfo", "427bf4d1e0ceac7ad27ef06df9eee7d04a918a97d309f5f71dfa0e7e6bf1f2be:App Started:r0 := @this: org.digitalhunters.locker.ui.MainActivity")
+Soot finished on Fri Mar 05 03:47:22 EST 2021
+Soot has run for 0 min. 11 sec.

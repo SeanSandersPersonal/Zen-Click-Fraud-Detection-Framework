@@ -1,0 +1,5 @@
+Soot started on Fri Mar 05 03:41:56 EST 2021
+com.facebook.ads.NativeAd$EventHandler Library Found
+com.google.android.gms.ads.AdActivity Library Found
+Soot finished on Fri Mar 05 03:42:27 EST 2021
+Soot has run for 0 min. 31 sec.

@@ -1,0 +1,4 @@
+Soot started on Thu Mar 04 22:45:09 EST 2021
+com.google.ads.util.g$a Library Found
+Soot finished on Thu Mar 04 22:45:45 EST 2021
+Soot has run for 0 min. 35 sec.

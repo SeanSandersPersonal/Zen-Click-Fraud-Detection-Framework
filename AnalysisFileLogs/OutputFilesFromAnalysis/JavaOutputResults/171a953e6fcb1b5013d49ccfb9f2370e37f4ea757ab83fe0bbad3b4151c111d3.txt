@@ -1,0 +1,5 @@
+Soot started on Thu Mar 04 18:45:40 EST 2021
+Found oncreate
+staticinvoke <android.util.Log: int d(java.lang.String,java.lang.String)>("DebugInfo", "171a953e6fcb1b5013d49ccfb9f2370e37f4ea757ab83fe0bbad3b4151c111d3:App Started:r0 := @this: com.digizone.fotostatuajestattoo.MainActivitySiempre")
+Soot finished on Thu Mar 04 18:45:48 EST 2021
+Soot has run for 0 min. 8 sec.

@@ -1,0 +1,6 @@
+Soot started on Thu Mar 04 17:43:27 EST 2021
+com.google.ads.e$6 Library Found
+Found oncreate
+staticinvoke <android.util.Log: int d(java.lang.String,java.lang.String)>("DebugInfo", "11e0eec5ba8e55170894ac55fc8e92207feb0a705bbedc13d888b0eb476b4c9f:App Started:r0 := @this: busidol.Tvgame.bubblebubble.MainActivity")
+Soot finished on Thu Mar 04 17:43:37 EST 2021
+Soot has run for 0 min. 9 sec.

@@ -1,0 +1,5 @@
+Soot started on Fri Mar 05 05:52:22 EST 2021
+Found oncreate
+staticinvoke <android.util.Log: int d(java.lang.String,java.lang.String)>("DebugInfo", "4c35a5269297eee9e195eb1e32bb6ba4981b840559554277c9480fde9b4cef64:App Started:r0 := @this: me.kfang.levelly.app.MainActivity")
+Soot finished on Fri Mar 05 05:52:28 EST 2021
+Soot has run for 0 min. 5 sec.

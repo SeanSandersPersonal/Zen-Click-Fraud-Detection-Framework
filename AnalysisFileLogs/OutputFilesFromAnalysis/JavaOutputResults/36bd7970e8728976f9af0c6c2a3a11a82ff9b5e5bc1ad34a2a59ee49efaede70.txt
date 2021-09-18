@@ -1,0 +1,5 @@
+Soot started on Fri Mar 05 01:12:21 EST 2021
+Found oncreate
+staticinvoke <android.util.Log: int d(java.lang.String,java.lang.String)>("DebugInfo", "36bd7970e8728976f9af0c6c2a3a11a82ff9b5e5bc1ad34a2a59ee49efaede70:App Started:r0 := @this: com.witty.babytailor.MainActivity")
+Soot finished on Fri Mar 05 01:12:39 EST 2021
+Soot has run for 0 min. 17 sec.

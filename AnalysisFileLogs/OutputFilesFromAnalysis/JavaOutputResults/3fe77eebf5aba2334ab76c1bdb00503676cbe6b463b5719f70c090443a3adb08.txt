@@ -1,0 +1,5 @@
+Soot started on Fri Mar 05 03:12:45 EST 2021
+Found oncreate
+staticinvoke <android.util.Log: int d(java.lang.String,java.lang.String)>("DebugInfo", "3fe77eebf5aba2334ab76c1bdb00503676cbe6b463b5719f70c090443a3adb08:App Started:r0 := @this: com.hoo.beiying2.guess360.MainActivity")
+Soot finished on Fri Mar 05 03:12:51 EST 2021
+Soot has run for 0 min. 5 sec.

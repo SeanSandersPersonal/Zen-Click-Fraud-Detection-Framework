@@ -1,0 +1,6 @@
+Soot started on Thu Mar 04 23:41:16 EST 2021
+com.google.android.gms.ads.internal.overlay.zzg Library Found
+Found oncreate
+staticinvoke <android.util.Log: int d(java.lang.String,java.lang.String)>("DebugInfo", "2f98e4dd481545def5ac86aabd8f72e48c5072a151313d5eb1fa91265438d90d:App Started:r0 := @this: com.fsn.cauly.blackdragoncore.MainActivity")
+Soot finished on Thu Mar 04 23:42:42 EST 2021
+Soot has run for 1 min. 26 sec.

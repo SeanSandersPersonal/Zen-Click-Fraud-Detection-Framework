@@ -1,0 +1,4 @@
+Soot started on Thu Mar 04 18:37:29 EST 2021
+com.google.android.gms.ads.identifier.AdvertisingIdClient$zza Library Found
+Soot finished on Thu Mar 04 18:37:54 EST 2021
+Soot has run for 0 min. 24 sec.

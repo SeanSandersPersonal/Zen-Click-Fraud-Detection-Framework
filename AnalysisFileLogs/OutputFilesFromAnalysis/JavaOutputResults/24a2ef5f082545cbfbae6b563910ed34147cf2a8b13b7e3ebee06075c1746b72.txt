@@ -1,0 +1,9 @@
+Soot started on Thu Mar 04 21:37:09 EST 2021
+com.amazon.device.ads.SISRegistration$2 Library Found
+com.google.ads.mediation.jsadapter.AdViewCheckTask$a Library Found
+Found oncreate
+staticinvoke <android.util.Log: int d(java.lang.String,java.lang.String)>("DebugInfo", "24a2ef5f082545cbfbae6b563910ed34147cf2a8b13b7e3ebee06075c1746b72:App Started:r0 := @this: com.teapps.musicspeedchangerlite.MainActivity")
+staticinvoke <android.util.Log: int d(java.lang.String,java.lang.String)>("DebugInfo", "24a2ef5f082545cbfbae6b563910ed34147cf2a8b13b7e3ebee06075c1746b72:AdClickedListener:virtualinvoke $r14.<com.amazon.device.ads.AdLayout: void setListener(com.amazon.device.ads.AdListener)>($r16)")
+Declaring Class:com.amazon.device.ads.AdLayout
+Soot finished on Thu Mar 04 21:37:26 EST 2021
+Soot has run for 0 min. 17 sec.

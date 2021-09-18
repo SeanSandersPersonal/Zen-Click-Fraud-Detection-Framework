@@ -1,0 +1,6 @@
+Soot started on Thu Mar 04 15:28:44 EST 2021
+com.google.android.gms.ads.search.SearchAdView Library Found
+Found oncreate
+staticinvoke <android.util.Log: int d(java.lang.String,java.lang.String)>("DebugInfo", "077185694582b044a1f544987c9206f71066a9bb610b0cfbb2f47c8ea358ad91:App Started:r0 := @this: mindlessbehavior.sticky.tune.MainActivity")
+Soot finished on Thu Mar 04 15:29:00 EST 2021
+Soot has run for 0 min. 15 sec.

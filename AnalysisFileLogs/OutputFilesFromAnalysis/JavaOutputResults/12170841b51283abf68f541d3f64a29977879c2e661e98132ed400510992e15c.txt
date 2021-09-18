@@ -1,0 +1,7 @@
+Soot started on Thu Mar 04 17:46:27 EST 2021
+com.amazon.device.ads.ViewManager$1 Library Found
+com.google.android.gms.ads.purchase.InAppPurchaseActivity Library Found
+staticinvoke <android.util.Log: int d(java.lang.String,java.lang.String)>("DebugInfo", "12170841b51283abf68f541d3f64a29977879c2e661e98132ed400510992e15c:AdClicked:virtualinvoke r0.<com.google.android.gms.internal.zzcu$zza: void performClick(java.lang.String)>($r3)")
+Declaring Class:com.google.android.gms.internal.zzcu$zza
+Soot finished on Thu Mar 04 17:47:13 EST 2021
+Soot has run for 0 min. 46 sec.

@@ -1,0 +1,10 @@
+Soot started on Thu Mar 04 18:56:17 EST 2021
+com.google.android.gms.ads.BaseAdView Library Found
+Found oncreate
+staticinvoke <android.util.Log: int d(java.lang.String,java.lang.String)>("DebugInfo", "17cbbeaa09ab2186c15a9e1fd69c03f2efe3e1ea832f23f4a1b3dc002f1f1dc8:App Started:r0 := @this: gotq.liquidNitrogen.MainActivity")
+staticinvoke <android.util.Log: int d(java.lang.String,java.lang.String)>("DebugInfo", "17cbbeaa09ab2186c15a9e1fd69c03f2efe3e1ea832f23f4a1b3dc002f1f1dc8:ClickRegistered:$r7 = virtualinvoke $r7.<java.lang.StringBuilder: java.lang.StringBuilder append(java.lang.String)>(\" as delayed impression is not supported\")")
+Declaring Class:java.lang.StringBuilder
+staticinvoke <android.util.Log: int d(java.lang.String,java.lang.String)>("DebugInfo", "17cbbeaa09ab2186c15a9e1fd69c03f2efe3e1ea832f23f4a1b3dc002f1f1dc8:AdClicked:virtualinvoke r0.<com.google.android.gms.internal.zzdz$zza: void performClick(java.lang.String)>($r3)")
+Declaring Class:com.google.android.gms.internal.zzdz$zza
+Soot finished on Thu Mar 04 18:56:37 EST 2021
+Soot has run for 0 min. 20 sec.

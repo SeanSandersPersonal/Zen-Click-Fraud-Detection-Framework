@@ -1,0 +1,4 @@
+Soot started on Thu Mar 04 23:40:41 EST 2021
+com.google.ads.internal.ActivationOverlay$1 Library Found
+Soot finished on Thu Mar 04 23:41:14 EST 2021
+Soot has run for 0 min. 32 sec.

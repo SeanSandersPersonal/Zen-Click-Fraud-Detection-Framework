@@ -1,0 +1,4 @@
+Soot started on Fri Mar 05 10:50:59 EST 2021
+com.amazon.device.ads.MraidView Library Found
+Soot finished on Fri Mar 05 10:51:35 EST 2021
+Soot has run for 0 min. 36 sec.

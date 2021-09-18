@@ -1,0 +1,10 @@
+Soot started on Fri Mar 05 04:58:29 EST 2021
+com.google.android.gms.ads.internal.client.zzy$zza Library Found
+staticinvoke <android.util.Log: int d(java.lang.String,java.lang.String)>("DebugInfo", "48a3996f1493ae3850b9856acc36cf506c75f8ec23a4dbaa08111772c9d8c26d:ClickRegistered:$r6 = virtualinvoke $r6.<java.lang.StringBuilder: java.lang.StringBuilder append(java.lang.String)>(\" impression is not supported\")")
+Declaring Class:java.lang.StringBuilder
+Found oncreate
+staticinvoke <android.util.Log: int d(java.lang.String,java.lang.String)>("DebugInfo", "48a3996f1493ae3850b9856acc36cf506c75f8ec23a4dbaa08111772c9d8c26d:App Started:r0 := @this: com.psychology.tarot.MainActivity")
+staticinvoke <android.util.Log: int d(java.lang.String,java.lang.String)>("DebugInfo", "48a3996f1493ae3850b9856acc36cf506c75f8ec23a4dbaa08111772c9d8c26d:AdClicked:virtualinvoke r0.<com.google.android.gms.internal.zzcp$zza: void performClick(java.lang.String)>($r3)")
+Declaring Class:com.google.android.gms.internal.zzcp$zza
+Soot finished on Fri Mar 05 04:59:50 EST 2021
+Soot has run for 1 min. 21 sec.

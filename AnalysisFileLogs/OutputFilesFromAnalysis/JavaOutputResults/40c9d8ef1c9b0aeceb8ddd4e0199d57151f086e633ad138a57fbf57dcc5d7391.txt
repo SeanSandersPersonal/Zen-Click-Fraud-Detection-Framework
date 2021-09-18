@@ -1,0 +1,8 @@
+Soot started on Fri Mar 05 03:24:15 EST 2021
+com.google.android.gms.ads.AdActivity Library Found
+Found oncreate
+staticinvoke <android.util.Log: int d(java.lang.String,java.lang.String)>("DebugInfo", "40c9d8ef1c9b0aeceb8ddd4e0199d57151f086e633ad138a57fbf57dcc5d7391:App Started:r0 := @this: com.fine.mp3search.MainActivity")
+staticinvoke <android.util.Log: int d(java.lang.String,java.lang.String)>("DebugInfo", "40c9d8ef1c9b0aeceb8ddd4e0199d57151f086e633ad138a57fbf57dcc5d7391:ClickRegistered:$r4 = virtualinvoke $r4.<java.lang.StringBuilder: java.lang.StringBuilder append(java.lang.String)>(\"StartAppWall.Banner3DSending Impression: [\")")
+Declaring Class:java.lang.StringBuilder
+Soot finished on Fri Mar 05 03:24:34 EST 2021
+Soot has run for 0 min. 19 sec.

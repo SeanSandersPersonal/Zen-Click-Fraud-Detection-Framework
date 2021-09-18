@@ -1,0 +1,5 @@
+Soot started on Fri Mar 05 06:24:22 EST 2021
+Found oncreate
+staticinvoke <android.util.Log: int d(java.lang.String,java.lang.String)>("DebugInfo", "4e70585b983c8c5d2d300bdd15e08920ce50b60d93af4801ebd1282785ad5f7c:App Started:r0 := @this: com.game.MarbleSoga2.d.MainActivity")
+Soot finished on Fri Mar 05 06:24:36 EST 2021
+Soot has run for 0 min. 13 sec.

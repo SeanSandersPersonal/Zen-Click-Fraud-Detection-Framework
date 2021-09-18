@@ -1,0 +1,8 @@
+Soot started on Thu Mar 04 19:13:06 EST 2021
+com.google.ads.e$2 Library Found
+Found oncreate
+staticinvoke <android.util.Log: int d(java.lang.String,java.lang.String)>("DebugInfo", "195607c375ce33589e66322d19a74585fe80e79963358387e5d1a413d590e11c:App Started:r0 := @this: com.musedev.seekasong.MainActivity")
+staticinvoke <android.util.Log: int d(java.lang.String,java.lang.String)>("DebugInfo", "195607c375ce33589e66322d19a74585fe80e79963358387e5d1a413d590e11c:ClickRegistered:$r4 = virtualinvoke $r4.<java.lang.StringBuilder: java.lang.StringBuilder append(java.lang.String)>(\"StartAppWall.Banner3DSending Impression: [\")")
+Declaring Class:java.lang.StringBuilder
+Soot finished on Thu Mar 04 19:13:20 EST 2021
+Soot has run for 0 min. 14 sec.

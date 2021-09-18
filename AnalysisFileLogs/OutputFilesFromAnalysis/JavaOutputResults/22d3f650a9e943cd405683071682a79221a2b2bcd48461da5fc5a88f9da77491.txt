@@ -1,0 +1,7 @@
+Soot started on Thu Mar 04 21:11:17 EST 2021
+staticinvoke <android.util.Log: int d(java.lang.String,java.lang.String)>("DebugInfo", "22d3f650a9e943cd405683071682a79221a2b2bcd48461da5fc5a88f9da77491:AdClicked:virtualinvoke r0.<com.google.zxing.client.android.switchbutton.SwitchButton: boolean performClick()>()")
+Declaring Class:com.google.zxing.client.android.switchbutton.SwitchButton
+staticinvoke <android.util.Log: int d(java.lang.String,java.lang.String)>("DebugInfo", "22d3f650a9e943cd405683071682a79221a2b2bcd48461da5fc5a88f9da77491:AdClicked:virtualinvoke $r1.<com.google.zxing.client.android.switchbutton.SwitchButton: boolean performClick()>()")
+Declaring Class:com.google.zxing.client.android.switchbutton.SwitchButton
+Soot finished on Thu Mar 04 21:11:27 EST 2021
+Soot has run for 0 min. 10 sec.

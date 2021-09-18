@@ -1,0 +1,14 @@
+Soot started on Fri Mar 05 07:36:06 EST 2021
+com.google.android.gms.ads.AdView Library Found
+staticinvoke <android.util.Log: int d(java.lang.String,java.lang.String)>("DebugInfo", "54450bd5e626de89e7d086be27139330a162256596fa34134b80d9711d08e433:LoadAd:virtualinvoke $r1.<com.facebook.ads.NativeAd: void loadAd()>()")
+Declaring Class:com.facebook.ads.NativeAd
+staticinvoke <android.util.Log: int d(java.lang.String,java.lang.String)>("DebugInfo", "54450bd5e626de89e7d086be27139330a162256596fa34134b80d9711d08e433:LoadAd:virtualinvoke $r17.<com.facebook.ads.AdView: void loadAd()>()")
+Declaring Class:com.facebook.ads.AdView
+staticinvoke <android.util.Log: int d(java.lang.String,java.lang.String)>("DebugInfo", "54450bd5e626de89e7d086be27139330a162256596fa34134b80d9711d08e433:LoadAd:virtualinvoke r1.<com.facebook.ads.InterstitialAd: void loadAd()>()")
+Declaring Class:com.facebook.ads.InterstitialAd
+Found oncreate
+staticinvoke <android.util.Log: int d(java.lang.String,java.lang.String)>("DebugInfo", "54450bd5e626de89e7d086be27139330a162256596fa34134b80d9711d08e433:App Started:r0 := @this: com.adobe.air.AdobeAIRMainActivity")
+staticinvoke <android.util.Log: int d(java.lang.String,java.lang.String)>("DebugInfo", "54450bd5e626de89e7d086be27139330a162256596fa34134b80d9711d08e433:AdClicked:virtualinvoke r0.<com.google.android.gms.internal.zzcu$zza: void performClick(java.lang.String)>($r3)")
+Declaring Class:com.google.android.gms.internal.zzcu$zza
+Soot finished on Fri Mar 05 07:36:38 EST 2021
+Soot has run for 0 min. 32 sec.
