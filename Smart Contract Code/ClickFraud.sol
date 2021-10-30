@@ -10,6 +10,7 @@ contract ApplicationAdvert{
         address AppAddrUsed;
         string AppName;
         uint clicks;
+        uint invalidclicks;
     }
     
     string private AppNameSet;
@@ -30,7 +31,10 @@ contract ApplicationAdvert{
 	}
 	
  
+	function IncrementInvalidClickCount() public{
 	
+	    app[AppNameSet].invalidclicks=app[AppNameSet].invalidclicks+1;
+	}
     function ReturnStructAppName(string memory AppName) public view returns(string memory){
 	   return app[AppName].AppName; 
 	}
@@ -38,5 +42,7 @@ contract ApplicationAdvert{
 	function ReturnClicks(string memory AppName) public view returns(uint){
 	   return app[AppName].clicks; 
 	}
-
+    function ReturnInvalidClicks(string memory AppName) public view returns(uint){
+	   return app[AppName].invalidclicks; 
+	}
 }
