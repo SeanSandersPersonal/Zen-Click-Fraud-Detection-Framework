@@ -1,5 +1,5 @@
 pragma solidity >=0.5.15;
-// pragma experimental ABIEncoderV2;
+pragma experimental ABIEncoderV2;
 
 
 
@@ -9,6 +9,7 @@ contract ApplicationAdvert{
     struct Application{
         address AppAddrUsed;
         string AppName;
+        string[] ExternalIpAddr;
         uint clicks;
         uint invalidclicks;
     }
@@ -24,7 +25,11 @@ contract ApplicationAdvert{
 	        app[name].AppAddrUsed = msg.sender;
 	   
 	}
-	
+	function SetIpAddr(string memory IpAddr) public{
+            
+	        app[AppNameSet].ExternalIpAddr.push(IpAddr);
+	   
+	}
 	function IncrementClickCount() public{
 	
 	    app[AppNameSet].clicks=app[AppNameSet].clicks+1;
@@ -44,5 +49,8 @@ contract ApplicationAdvert{
 	}
     function ReturnInvalidClicks(string memory AppName) public view returns(uint){
 	   return app[AppName].invalidclicks; 
+	}
+	function ReturnExternalIPAddr(string memory AppName) public view returns(string[] memory){
+	   return app[AppName].ExternalIpAddr; 
 	}
 }
